@@ -1,0 +1,8 @@
+uuid: ec0cf5ab-654d-4bf4-967f-13c45abb28d1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nclCslblJgXd-uIUVrrA413tCutzSHA4LHxGO8cwywg
+source: mu
+flag: mu

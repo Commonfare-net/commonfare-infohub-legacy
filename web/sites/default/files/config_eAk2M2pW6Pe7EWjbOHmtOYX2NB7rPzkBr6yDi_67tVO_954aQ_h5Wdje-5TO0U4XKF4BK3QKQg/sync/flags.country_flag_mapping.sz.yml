@@ -1,0 +1,8 @@
+uuid: b411a2cb-b2c2-477b-b80f-ca9becbe91fa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1eP7RQhDaaVFfXcWfsV847l3QVSFjt7o3j9DGEO8X4k
+source: sz
+flag: sz

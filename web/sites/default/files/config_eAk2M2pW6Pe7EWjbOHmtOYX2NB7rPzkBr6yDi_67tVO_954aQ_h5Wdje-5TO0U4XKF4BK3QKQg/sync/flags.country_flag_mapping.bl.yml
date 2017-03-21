@@ -1,0 +1,8 @@
+uuid: bd510f23-d559-4d6f-b49d-e85f0419bbdf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5gV8KeuKASAFmImx4xJ8qcGNxS-Y_C3lRlsz0V893eQ
+source: bl
+flag: bl

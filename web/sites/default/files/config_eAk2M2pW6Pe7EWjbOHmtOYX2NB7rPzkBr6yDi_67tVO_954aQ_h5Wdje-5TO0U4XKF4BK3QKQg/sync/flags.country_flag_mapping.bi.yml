@@ -1,0 +1,8 @@
+uuid: 9a7797b0-ad44-48bf-abf3-250045529a9e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Tsk9djXbTQygvZ81oKz_RLZ7xSVDlkx4jt8BMJAmiFE
+source: bi
+flag: bi

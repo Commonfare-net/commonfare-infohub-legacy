@@ -1,0 +1,21 @@
+uuid: b5288241-0450-4e90-ad99-23521127f242
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_content
+    - node.type.welfare_organization
+  module:
+    - text
+id: node.welfare_organization.field_content
+field_name: field_content
+entity_type: node
+bundle: welfare_organization
+label: Content
+description: 'The content of this welfare measure. <b>Important</b> take care to format the content properly, using <pre>Heading 3</pre> or <pre>Heading 4</pre> to create visible title'
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

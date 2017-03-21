@@ -1,0 +1,9 @@
+uuid: 4e8afa4d-ece4-4102-824e-037b254ad211
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1yzKgv1Fts9S-3EryK9n6NzAieEMlPdlPm4oCKZvKmE
+source: lt
+info: 'Flag of Lithuania'
+flag: lt

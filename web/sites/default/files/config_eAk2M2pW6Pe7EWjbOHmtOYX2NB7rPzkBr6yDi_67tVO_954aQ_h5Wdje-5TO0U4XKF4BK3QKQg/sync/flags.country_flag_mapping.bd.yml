@@ -1,0 +1,8 @@
+uuid: 07fb2969-9535-4860-b7e2-5d77ff2e4732
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZtOcS-w1UW_7X-GONVY2i_l2Bp-gG5W8JJfYhXFq5Y8
+source: bd
+flag: bd

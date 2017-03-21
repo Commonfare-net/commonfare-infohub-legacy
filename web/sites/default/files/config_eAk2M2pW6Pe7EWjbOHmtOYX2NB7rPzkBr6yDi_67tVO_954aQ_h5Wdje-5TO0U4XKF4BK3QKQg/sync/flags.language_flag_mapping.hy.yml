@@ -1,0 +1,9 @@
+uuid: f3eea88c-3ca6-484f-bb2c-ffc3a3505786
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lyvkOcmXD9lHsDzYgvS2VKFyvai8iMz6NAMFc55B1vQ
+source: hy
+info: 'Flag of Armenia'
+flag: am

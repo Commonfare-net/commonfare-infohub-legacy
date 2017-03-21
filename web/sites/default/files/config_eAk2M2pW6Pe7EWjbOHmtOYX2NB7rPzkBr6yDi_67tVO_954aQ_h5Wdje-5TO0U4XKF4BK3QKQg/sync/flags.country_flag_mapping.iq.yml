@@ -1,0 +1,8 @@
+uuid: 7c776b80-c5e4-4e65-be79-5b0ce7b0bf2c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: edejZ5U6Htw4tu4uv0Wg4af2603SGyfIO5BvE5yX-_4
+source: iq
+flag: iq

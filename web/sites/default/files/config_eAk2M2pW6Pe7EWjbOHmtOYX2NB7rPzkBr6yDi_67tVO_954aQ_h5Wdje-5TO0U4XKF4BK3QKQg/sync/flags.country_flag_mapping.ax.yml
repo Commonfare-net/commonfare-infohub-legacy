@@ -1,0 +1,8 @@
+uuid: 94291061-d12c-44ed-a2cf-9f1b67cb1f7c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lPGlboemzBYTEHpvpxqgR2TLE7j2l0tXLDCmdYabCOk
+source: ax
+flag: ax

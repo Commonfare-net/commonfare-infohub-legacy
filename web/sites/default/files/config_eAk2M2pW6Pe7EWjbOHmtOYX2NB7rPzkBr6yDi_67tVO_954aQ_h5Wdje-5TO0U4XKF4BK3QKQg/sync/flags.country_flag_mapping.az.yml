@@ -1,0 +1,8 @@
+uuid: 2333a63b-0f41-46a5-86f0-d257f186d445
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YpAXCOl7LOfgs1vyHAdivUFfvOuFm5njKYc00i01XkQ
+source: az
+flag: az

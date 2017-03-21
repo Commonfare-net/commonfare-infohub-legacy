@@ -1,0 +1,9 @@
+uuid: e3e5d962-bd98-46c3-a124-317ae595d15b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RQn4u8lNlw9jWouF1P3d-tYy0Unaj8nJtTL-Q2lZtIg
+source: si
+info: 'Flag of Sri Lanka'
+flag: lk

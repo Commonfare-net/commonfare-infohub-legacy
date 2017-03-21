@@ -1,0 +1,9 @@
+uuid: 66a8ee78-9031-4f8d-b4ca-88bfbd800627
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wQ1pHhWwAsuIV0gx1A3BWQVResRo00B8Tggb3BS89ys
+source: zh-hant
+info: 'Flag of Taiwan'
+flag: tw

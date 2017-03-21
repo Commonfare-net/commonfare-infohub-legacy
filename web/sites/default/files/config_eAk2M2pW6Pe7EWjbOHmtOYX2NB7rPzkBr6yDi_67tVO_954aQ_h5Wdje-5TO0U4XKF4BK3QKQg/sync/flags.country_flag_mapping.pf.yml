@@ -1,0 +1,8 @@
+uuid: 33f05add-2c81-43af-988b-a71972ab211b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pe7DvWU-U3HmxlyhSOzSLkx-TNwMVtGVqfbrm2Ck1Ow
+source: pf
+flag: pf

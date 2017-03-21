@@ -1,0 +1,8 @@
+uuid: f96b29f2-daee-4bbf-bac0-f1a2846c5ad7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7_yq3Sn4izz0Y-YD4SiUHiC7n8bx6CdSW45Jq22vB-I
+source: sm
+flag: sm

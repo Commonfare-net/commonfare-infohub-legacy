@@ -1,0 +1,8 @@
+uuid: 936295ce-3f0e-4f61-b29b-190693624ade
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: davL98lYtnNvWQA01dK2oVrQDRA6sad4d3GktQXKUfI
+source: gw
+flag: gw

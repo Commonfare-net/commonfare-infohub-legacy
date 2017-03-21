@@ -1,0 +1,9 @@
+uuid: bba4ebe4-6274-4e1f-ae14-75717071f04a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bkGKOdkUu9OUelOqANM9q0eheQziWyDH24bYJWEqETo
+source: en-au
+info: 'Flag of Australia'
+flag: au

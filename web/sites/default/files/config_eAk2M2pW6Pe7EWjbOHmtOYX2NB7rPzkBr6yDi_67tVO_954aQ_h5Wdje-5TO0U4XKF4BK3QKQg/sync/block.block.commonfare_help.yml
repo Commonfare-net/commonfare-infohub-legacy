@@ -1,0 +1,22 @@
+uuid: a009414d-d5b2-4c06-90f7-ef5ba8b6b663
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - commonfare
+_core:
+  default_config_hash: 1ydANYVj2qequBv4nSfgmopcm6vkO6cUV_kFQ-jgw_Y
+id: commonfare_help
+theme: commonfare
+region: highlighted
+weight: -6
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

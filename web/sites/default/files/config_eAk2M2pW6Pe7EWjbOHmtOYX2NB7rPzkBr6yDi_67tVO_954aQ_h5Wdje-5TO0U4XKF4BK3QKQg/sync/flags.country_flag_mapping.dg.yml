@@ -1,0 +1,8 @@
+uuid: 736ef5b4-c860-475b-afad-0d00ecd60d52
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: v_CfdJR_xB5BAgNcameKAW6-a4iEa9vZ9Y54LsqJKTA
+source: dg
+flag: crs-io

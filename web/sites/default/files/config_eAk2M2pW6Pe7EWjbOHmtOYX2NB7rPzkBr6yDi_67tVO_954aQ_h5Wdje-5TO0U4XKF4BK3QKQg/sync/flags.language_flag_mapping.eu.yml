@@ -1,0 +1,9 @@
+uuid: 9c637ef5-cee4-41d5-8035-4c0b3212668e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JUGkYVf2M4m5QTwo6Wqx0mzA0aS90GcBHCirPs4RqpQ
+source: eu
+info: 'The Basque flag'
+flag: eus

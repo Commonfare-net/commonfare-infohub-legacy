@@ -1,0 +1,8 @@
+uuid: d200b2ad-cd49-4290-92a6-279b5cebf4fb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5N9IuzDFS5fMR44FUQmkPcsFM4nO8zYrQw6Rjq1OFiA
+source: tn
+flag: tn

@@ -1,0 +1,21 @@
+uuid: 71580280-29f5-4302-b1c0-0ed7e5be0435
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_how_to_access
+    - node.type.welfare_organization
+  module:
+    - text
+id: node.welfare_organization.field_how_to_access
+field_name: field_how_to_access
+entity_type: node
+bundle: welfare_organization
+label: 'How to access'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

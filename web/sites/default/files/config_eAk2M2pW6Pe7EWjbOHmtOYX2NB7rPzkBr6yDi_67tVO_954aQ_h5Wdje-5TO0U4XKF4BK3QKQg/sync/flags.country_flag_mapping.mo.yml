@@ -1,0 +1,8 @@
+uuid: 8a80a62c-738f-4a99-b4f3-fc32a8d224c0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NdegVVOv3d1rL9doskUDqJwmPFPlu91tR6wKXFlKAEc
+source: mo
+flag: mo

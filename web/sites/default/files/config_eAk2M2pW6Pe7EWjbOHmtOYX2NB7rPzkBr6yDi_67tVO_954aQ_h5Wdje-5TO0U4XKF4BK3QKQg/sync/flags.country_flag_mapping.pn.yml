@@ -1,0 +1,8 @@
+uuid: 715b4d13-2780-465a-8776-00604681cf88
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c_oEQJ_fTdEItj-xT3o6dAIzdO4fifFHPLWHWgQcmAc
+source: pn
+flag: pn

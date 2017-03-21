@@ -1,0 +1,8 @@
+uuid: 300f2b4d-191e-42f7-893a-0ebcc8894328
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dEfTnkjAOIMlbJMQFE8wCVq7TFhza_hHIPcZ0Z-2g5Y
+source: gy
+flag: gy

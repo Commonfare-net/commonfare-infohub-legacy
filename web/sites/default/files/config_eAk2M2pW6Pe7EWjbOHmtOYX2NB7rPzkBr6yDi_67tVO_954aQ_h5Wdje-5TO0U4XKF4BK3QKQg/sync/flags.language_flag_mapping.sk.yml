@@ -1,0 +1,9 @@
+uuid: a4098051-3713-4af5-94d9-a21ab8111021
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: N_PEf7t0QB1bh0jFsIpYpy07NDpYtWn9FGqi3svmrXw
+source: sk
+info: 'Flag of Slovakia'
+flag: sk

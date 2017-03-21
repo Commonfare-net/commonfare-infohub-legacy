@@ -1,0 +1,9 @@
+uuid: ad7b1ccb-a100-4893-b2f1-0f4bd0b6c504
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: z6hB9ZnSCuS-rbT6n-xj3xpOyLYEtlikbYtNwVbtD1s
+source: ar
+info: 'Arabic language icon: Green flag with first letter of Arabic alphabet'
+flag: ara

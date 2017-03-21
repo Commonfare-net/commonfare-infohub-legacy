@@ -1,0 +1,9 @@
+uuid: 420ab1ba-52f8-4acf-8fd7-61b1a1f773d0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CwUupJ-E-ArVLCTHmaWUGmPLzFU4qGSXlS6QzqJBxZ4
+source: fa
+info: 'Flag of Iran'
+flag: ir

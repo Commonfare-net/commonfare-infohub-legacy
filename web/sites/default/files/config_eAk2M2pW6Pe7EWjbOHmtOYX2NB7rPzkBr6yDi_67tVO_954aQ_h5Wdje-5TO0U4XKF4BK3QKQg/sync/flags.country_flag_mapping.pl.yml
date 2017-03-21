@@ -1,0 +1,8 @@
+uuid: c107ef36-97ea-4951-b225-47dcbfdec2d9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ufmSvG49hux8QBiuoDLbEsE40ehwEozpaggksl-W2Pc
+source: pl
+flag: pl

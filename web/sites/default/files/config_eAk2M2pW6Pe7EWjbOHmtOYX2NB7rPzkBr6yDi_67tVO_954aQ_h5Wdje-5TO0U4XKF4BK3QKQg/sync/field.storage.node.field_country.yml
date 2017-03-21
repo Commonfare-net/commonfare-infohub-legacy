@@ -1,0 +1,33 @@
+uuid: 70a2d060-f537-4f8c-bec9-7cf64e9b0b66
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_country
+field_name: field_country
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: hr
+      label: Croatia
+    -
+      value: it
+      label: Italy
+    -
+      value: nl
+      label: Netherlands
+    -
+      value: en
+      label: Other
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

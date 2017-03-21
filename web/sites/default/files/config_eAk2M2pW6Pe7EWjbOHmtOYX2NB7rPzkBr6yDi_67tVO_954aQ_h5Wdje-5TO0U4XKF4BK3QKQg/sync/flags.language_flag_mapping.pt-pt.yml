@@ -1,0 +1,9 @@
+uuid: 508ff569-ed8e-4f0a-9888-8f6ecedbba0b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: F96HIuE6wLWKiCSmS2fyK6KLpwPuC5mymJVsl6kF4pA
+source: pt-pt
+info: 'Flag of Portugal'
+flag: pt

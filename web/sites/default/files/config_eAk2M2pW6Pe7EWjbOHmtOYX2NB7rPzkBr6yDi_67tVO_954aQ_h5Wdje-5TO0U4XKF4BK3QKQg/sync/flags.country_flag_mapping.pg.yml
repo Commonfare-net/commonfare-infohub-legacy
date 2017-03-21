@@ -1,0 +1,8 @@
+uuid: fa0b04ad-0fd1-46d9-9651-51d1713357ae
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IFdul6aTrdyCb9aQiI_DphwP0FiW9y6Jktp1MTZASQk
+source: pg
+flag: pg

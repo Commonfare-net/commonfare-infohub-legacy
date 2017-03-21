@@ -1,0 +1,35 @@
+uuid: e788a01f-ee6b-4c74-9a60-50502e389e60
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.welfare_organization.field_content
+    - field.field.node.welfare_organization.field_country
+    - field.field.node.welfare_organization.field_short_description
+    - field.field.node.welfare_organization.field_tags
+    - node.type.welfare_organization
+  module:
+    - text
+    - user
+id: node.welfare_organization.default
+targetEntityType: node
+bundle: welfare_organization
+mode: default
+content:
+  field_content:
+    type: text_default
+    weight: 1
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+  field_short_description:
+    weight: 0
+    label: inline
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+hidden:
+  field_country: true
+  field_tags: true
+  langcode: true
+  links: true

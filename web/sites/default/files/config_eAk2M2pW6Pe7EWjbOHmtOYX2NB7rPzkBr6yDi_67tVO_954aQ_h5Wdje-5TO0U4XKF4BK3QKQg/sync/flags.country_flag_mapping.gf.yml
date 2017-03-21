@@ -1,0 +1,8 @@
+uuid: 43668deb-7987-42ae-b2ac-166ad123a1b9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qBbGR2kUJM9yHef9CBWAy_4jDDv9-QRA6G0KBuWasaw
+source: gf
+flag: gf

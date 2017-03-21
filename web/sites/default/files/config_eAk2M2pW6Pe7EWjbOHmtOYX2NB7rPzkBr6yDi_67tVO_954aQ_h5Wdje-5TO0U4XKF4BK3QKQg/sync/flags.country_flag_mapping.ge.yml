@@ -1,0 +1,8 @@
+uuid: 3c3c8f5e-03c9-4727-bcf7-53af949e3b4b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zO2AsgRWzCTUh2xm1uuKqXYr1myGaUs19wyGscVopkw
+source: ge
+flag: ge

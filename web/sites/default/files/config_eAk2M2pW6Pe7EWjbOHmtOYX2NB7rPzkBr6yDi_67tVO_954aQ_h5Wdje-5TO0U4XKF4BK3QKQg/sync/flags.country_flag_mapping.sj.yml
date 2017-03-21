@@ -1,0 +1,8 @@
+uuid: ddff6071-aa85-4d16-b23f-52a9196a5ecb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xIrhgP9Tr9N9tZRre3_dFmZ_2ZKQ2FW3SZYS0Cq7n8A
+source: sj
+flag: 'no'

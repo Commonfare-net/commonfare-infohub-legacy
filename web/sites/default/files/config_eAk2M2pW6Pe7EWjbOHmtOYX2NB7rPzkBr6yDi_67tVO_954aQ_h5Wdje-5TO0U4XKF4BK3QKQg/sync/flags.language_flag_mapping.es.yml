@@ -1,0 +1,9 @@
+uuid: 4fde4177-34a3-48e1-a72e-1626a8865c3f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Lq78GcLHGVtegggEsxd8sQd4QhaP6E4bWiDok---EpQ
+source: es
+info: 'Flag of Spain'
+flag: es

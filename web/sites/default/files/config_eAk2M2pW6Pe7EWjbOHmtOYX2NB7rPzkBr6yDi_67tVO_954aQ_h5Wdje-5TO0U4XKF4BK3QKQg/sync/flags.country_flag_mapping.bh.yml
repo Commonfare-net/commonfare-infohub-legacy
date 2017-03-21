@@ -1,0 +1,8 @@
+uuid: 6f67438f-5f9e-4cf0-9ac4-c96b2a1a1061
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sae2DDpLkfwlg0yW0dRlIXFegxL5QnbsqGw8Fb0SPZs
+source: bh
+flag: bh

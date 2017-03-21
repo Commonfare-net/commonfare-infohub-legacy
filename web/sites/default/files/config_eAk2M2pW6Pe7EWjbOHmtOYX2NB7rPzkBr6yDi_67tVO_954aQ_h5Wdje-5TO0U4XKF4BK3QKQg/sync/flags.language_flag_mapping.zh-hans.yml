@@ -1,0 +1,9 @@
+uuid: 230aea19-5dce-4756-b229-5fb85e6e9b36
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0QDfTarYgRRRlmBu_-YLn5k4olakZfAZgXEKdEOxhRw
+source: zh-hans
+info: 'Flag of China'
+flag: cn

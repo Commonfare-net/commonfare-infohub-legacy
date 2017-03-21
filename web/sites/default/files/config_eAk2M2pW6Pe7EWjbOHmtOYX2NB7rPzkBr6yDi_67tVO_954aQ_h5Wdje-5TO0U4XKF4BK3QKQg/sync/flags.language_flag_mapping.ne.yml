@@ -1,0 +1,9 @@
+uuid: eca573d5-b3f9-4a10-be9b-64255724d31a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: d9WeQMaEx2y5ie_I2AYBBknE7-Lk6QlqOb5rnLGhpt8
+source: ne
+info: 'Flag of Nepal'
+flag: np

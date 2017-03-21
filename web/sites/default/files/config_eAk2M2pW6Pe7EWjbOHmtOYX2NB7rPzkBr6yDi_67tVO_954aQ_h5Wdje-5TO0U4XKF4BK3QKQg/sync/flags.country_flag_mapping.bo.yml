@@ -1,0 +1,8 @@
+uuid: 7c7b8a4f-2b27-4dfc-bb92-a95d9b98d194
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JPEIlQrblABPP8DH2hi5QglBSjB03PuEBhLORx4au3g
+source: bo
+flag: bo

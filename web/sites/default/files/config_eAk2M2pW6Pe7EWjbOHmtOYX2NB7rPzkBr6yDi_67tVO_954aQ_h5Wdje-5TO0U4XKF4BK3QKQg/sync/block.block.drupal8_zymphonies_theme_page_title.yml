@@ -1,0 +1,20 @@
+uuid: 272d8860-85e9-45a6-9ae2-b2673a0f3120
+langcode: en
+status: true
+dependencies:
+  theme:
+    - drupal8_zymphonies_theme
+_core:
+  default_config_hash: zi8BYNgxjz5ew8ihNDfnBFXLJ5jCW-UNbCQ3mLUM_kE
+id: drupal8_zymphonies_theme_page_title
+theme: drupal8_zymphonies_theme
+region: page_title
+weight: 0
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Titolo della pagina'
+  provider: core
+  label_display: '0'
+visibility: {  }

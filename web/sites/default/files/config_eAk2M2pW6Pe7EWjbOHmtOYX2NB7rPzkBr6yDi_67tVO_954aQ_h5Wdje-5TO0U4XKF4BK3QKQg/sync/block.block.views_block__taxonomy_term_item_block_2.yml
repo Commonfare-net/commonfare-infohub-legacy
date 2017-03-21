@@ -1,0 +1,32 @@
+uuid: 44cacc91-8944-4cab-a2c9-0d1e7a48666a
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.taxonomy_term_item
+  module:
+    - node
+    - views
+  theme:
+    - commonfare
+id: views_block__taxonomy_term_item_block_2
+theme: commonfare
+region: page_title
+weight: -8
+provider: null
+plugin: 'views_block:taxonomy_term_item-block_2'
+settings:
+  id: 'views_block:taxonomy_term_item-block_2'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility:
+  node_type:
+    id: node_type
+    bundles:
+      welfare_organization: welfare_organization
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'

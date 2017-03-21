@@ -1,0 +1,8 @@
+uuid: 1655aebb-356b-48a9-86cf-f789ba2673c6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UfXix-oTretFqiYiDQQdo6jvWBT-_uapAB2y2zBhX1M
+source: ir
+flag: ir

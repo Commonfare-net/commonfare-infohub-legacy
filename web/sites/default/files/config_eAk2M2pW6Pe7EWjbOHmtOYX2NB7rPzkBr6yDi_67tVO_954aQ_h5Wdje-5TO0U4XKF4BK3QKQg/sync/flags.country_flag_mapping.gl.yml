@@ -1,0 +1,8 @@
+uuid: e403e929-7e5a-4124-866d-161535e3f48b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: czU_XPEcFEH19n_sNA6_XVFhv2mQsULUWzVERQxpRQI
+source: gl
+flag: gl

@@ -1,0 +1,9 @@
+uuid: 99503e78-fad7-43fb-9067-2d1da9ee7101
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: d7onZiXTCiAt_vP2WZfVaBkoyQpCzVEH5g8pPe53w6Q
+source: bg
+info: 'Flag of Bulgaria'
+flag: bg

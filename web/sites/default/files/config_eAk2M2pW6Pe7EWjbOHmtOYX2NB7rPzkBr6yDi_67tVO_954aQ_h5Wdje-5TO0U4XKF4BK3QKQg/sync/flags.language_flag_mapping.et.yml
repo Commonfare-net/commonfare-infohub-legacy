@@ -1,0 +1,9 @@
+uuid: e7f56db2-a891-4d0a-a66a-0fe1e334eef3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4tPi_G5oeXl77Oa5AQFFV026ZE3PHeoycKdGdA576SA
+source: et
+info: 'Flag of Estonia'
+flag: ee

@@ -1,0 +1,8 @@
+uuid: 927685e4-3edd-411f-b294-c28d198b0227
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rtqWoOHnLoTap28cRNRXR7I3mxtPmx5oiPof9i6RtXI
+source: ni
+flag: ni

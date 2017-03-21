@@ -1,0 +1,21 @@
+uuid: 1a90f65c-458a-41d9-b44c-bd60b843b2a8
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_competence
+    - node.type.welfare_organization
+  module:
+    - options
+id: node.welfare_organization.field_competence
+field_name: field_competence
+entity_type: node
+bundle: welfare_organization
+label: Competence
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

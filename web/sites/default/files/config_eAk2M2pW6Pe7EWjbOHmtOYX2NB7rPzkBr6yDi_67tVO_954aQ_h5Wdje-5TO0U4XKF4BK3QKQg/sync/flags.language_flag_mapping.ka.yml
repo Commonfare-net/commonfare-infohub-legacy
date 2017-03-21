@@ -1,0 +1,9 @@
+uuid: 4ec5e12f-c932-4a92-b9f9-11e022a6a009
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: az5PJ51QjidaqtSRP8SPYKjxlcFVIGUotiNBS67eG1c
+source: ka
+info: 'Flag of Georgia'
+flag: ge

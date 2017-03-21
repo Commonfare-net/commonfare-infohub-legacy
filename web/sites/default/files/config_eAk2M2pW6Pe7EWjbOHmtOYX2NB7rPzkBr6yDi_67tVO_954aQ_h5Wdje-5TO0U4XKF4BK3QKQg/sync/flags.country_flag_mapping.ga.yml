@@ -1,0 +1,8 @@
+uuid: dd9e1c1e-3096-4204-b18f-56efe531e986
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: frZMXs4RSxfnyGF5pfEymO-atYv0tpUFNYrzMcWM8Jc
+source: ga
+flag: ga

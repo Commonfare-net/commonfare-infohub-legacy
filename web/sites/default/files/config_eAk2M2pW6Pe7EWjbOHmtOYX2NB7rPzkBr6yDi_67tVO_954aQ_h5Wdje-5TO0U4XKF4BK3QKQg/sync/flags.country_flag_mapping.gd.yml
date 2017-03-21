@@ -1,0 +1,8 @@
+uuid: 87ac5311-8b8c-440c-a378-77ba2e4a6796
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2MsNIOIAa7ZtX2LJ6DMVX1jJGjKFQm0bCBSCrR3UCxo
+source: gd
+flag: gd

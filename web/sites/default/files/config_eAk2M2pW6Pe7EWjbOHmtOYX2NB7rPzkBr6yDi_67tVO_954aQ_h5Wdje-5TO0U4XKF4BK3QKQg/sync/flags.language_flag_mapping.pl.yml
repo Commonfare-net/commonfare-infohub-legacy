@@ -1,0 +1,9 @@
+uuid: 26e39929-67a8-45e2-9c1a-5ba07f32a779
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fOQ-IVy-1RZJRt4xCiuevAG0vgd_ajU3aX7kfIxG9EI
+source: pl
+info: 'Flag of Poland'
+flag: pl

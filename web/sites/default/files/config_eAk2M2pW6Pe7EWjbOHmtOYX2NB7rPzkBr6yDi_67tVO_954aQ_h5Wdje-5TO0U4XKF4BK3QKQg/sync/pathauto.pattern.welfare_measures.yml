@@ -1,0 +1,22 @@
+uuid: 45b90a18-758d-4efe-8269-88282fe73d44
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: welfare_measures
+label: 'Welfare Measures'
+type: 'canonical_entities:node'
+pattern: '[node:field_tags:0]/[node:field_country]/[node:title]'
+selection_criteria:
+  757bbd23-0fda-4602-91f6-b4cc5aa9bdbe:
+    id: node_type
+    bundles:
+      welfare_organization: welfare_organization
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 757bbd23-0fda-4602-91f6-b4cc5aa9bdbe
+selection_logic: and
+weight: -5
+relationships: {  }

@@ -1,0 +1,8 @@
+uuid: f531af0e-072f-49e9-9462-1d8b5d6b32db
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HDiXaprOnd6Qk8umqDXYiGZO5tgWJLFHIA7veYuHkZE
+source: gt
+flag: gt

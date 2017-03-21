@@ -1,0 +1,8 @@
+uuid: bccc3edd-c6e9-45c7-9b8b-d95eb9aaf06d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: v7lOO5s6PC_xvTPsNQUEame9HLLYYBnzmVLDv_dnPjE
+source: gu
+flag: gu

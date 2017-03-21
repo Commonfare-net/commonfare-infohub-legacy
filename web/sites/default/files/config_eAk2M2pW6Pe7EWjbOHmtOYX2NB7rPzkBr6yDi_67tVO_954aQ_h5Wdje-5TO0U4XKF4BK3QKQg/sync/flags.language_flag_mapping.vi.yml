@@ -1,0 +1,9 @@
+uuid: e8b380e6-4555-4c0c-862c-51367bd6a2c6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: T0HY4tCmYhykMB1_tEmKDYqgsCfNk-lQd1DZVLZVbrw
+source: vi
+info: 'Flag of Vietnam'
+flag: vn

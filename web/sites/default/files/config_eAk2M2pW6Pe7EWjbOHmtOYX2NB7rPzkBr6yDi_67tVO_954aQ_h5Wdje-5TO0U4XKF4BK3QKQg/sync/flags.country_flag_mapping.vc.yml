@@ -1,0 +1,8 @@
+uuid: dcd1486c-bd67-4238-b0b8-e92a04ed81a1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eCz4zgptD0enSkI0qb4N8HxqZAwhYUmUqvInZqjE21o
+source: vc
+flag: vc

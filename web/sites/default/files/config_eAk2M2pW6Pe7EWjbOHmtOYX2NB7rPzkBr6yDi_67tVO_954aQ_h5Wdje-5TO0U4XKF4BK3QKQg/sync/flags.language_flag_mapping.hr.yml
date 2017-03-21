@@ -1,0 +1,9 @@
+uuid: a8394df2-2006-4a1a-9363-5f8d4dc779e3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3mp5jzu8L3gPpBWu-XeF9CVzCPdF-8syUElFEtFh3G0
+source: hr
+info: 'Flag of Croatia'
+flag: hr

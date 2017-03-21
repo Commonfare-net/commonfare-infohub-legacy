@@ -1,0 +1,21 @@
+uuid: 04104e17-c03e-4980-9bcb-b29cd31ff6ad
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_application_forms
+    - node.type.welfare_organization
+  module:
+    - text
+id: node.welfare_organization.field_application_forms
+field_name: field_application_forms
+entity_type: node
+bundle: welfare_organization
+label: 'Application forms'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

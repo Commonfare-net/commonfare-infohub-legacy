@@ -1,0 +1,8 @@
+uuid: 25636f40-bdb9-4eaf-b334-b3e961814dda
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GRPXCABe5TTWJjIAUrs29tQSDvCXuqvqZr52iJtf24w
+source: om
+flag: om

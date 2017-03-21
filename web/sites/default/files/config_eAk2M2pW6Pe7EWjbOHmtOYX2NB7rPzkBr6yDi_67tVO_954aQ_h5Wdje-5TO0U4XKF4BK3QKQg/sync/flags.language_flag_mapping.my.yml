@@ -1,0 +1,9 @@
+uuid: 6824d9cf-3f08-4fba-a68e-f33cd7e48041
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0j2opNm1gTabYvYpZpO5qCLosmX0VtwYmv8flLJq37c
+source: my
+info: 'Flag of Myanmar / Burma'
+flag: mm

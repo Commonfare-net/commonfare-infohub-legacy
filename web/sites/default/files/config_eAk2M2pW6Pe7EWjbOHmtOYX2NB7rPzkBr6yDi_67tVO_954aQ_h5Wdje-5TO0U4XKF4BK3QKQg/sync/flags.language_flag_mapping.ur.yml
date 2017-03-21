@@ -1,0 +1,9 @@
+uuid: e5ebd238-76f5-4a8b-b331-2989d2cac268
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ptrwpkFlDO1U9zuYwZYfemDqXrlmmE5hT9tsndOBgL8
+source: ur
+info: 'Flag of Pakistan'
+flag: pk

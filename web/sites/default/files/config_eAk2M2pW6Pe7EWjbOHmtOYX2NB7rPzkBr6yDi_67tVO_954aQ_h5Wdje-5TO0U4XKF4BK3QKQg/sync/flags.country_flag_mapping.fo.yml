@@ -1,0 +1,8 @@
+uuid: 96a216d0-23ca-4bdc-ac4b-53c919a8804a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NSIkha3BHSXBMzcrULf1-M2x5EdBKK9eXUErJFBUyDY
+source: fo
+flag: fo

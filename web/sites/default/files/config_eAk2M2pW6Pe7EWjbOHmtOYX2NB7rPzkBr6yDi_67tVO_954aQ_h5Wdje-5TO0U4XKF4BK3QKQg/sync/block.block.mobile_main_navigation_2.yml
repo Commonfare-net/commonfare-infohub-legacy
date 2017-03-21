@@ -1,0 +1,29 @@
+uuid: 3504fd7e-4f84-4ad0-9190-150610a3b0e9
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - commonfare
+id: mobile_main_navigation_2
+theme: commonfare
+region: highlighted
+weight: -8
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Mobile navigation'
+  provider: system
+  label_display: visible
+  level: 1
+  depth: 0
+visibility:
+  request_path:
+    id: request_path
+    pages: "/node/19\r\n/informing*"
+    negate: false
+    context_mapping: {  }

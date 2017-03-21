@@ -1,0 +1,8 @@
+uuid: 09122330-a276-479a-9d07-9cde06683901
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IuJO_wreluf0spqfuNikWtRREvbbMe9VfizYI8LsxSw
+source: ly
+flag: ly

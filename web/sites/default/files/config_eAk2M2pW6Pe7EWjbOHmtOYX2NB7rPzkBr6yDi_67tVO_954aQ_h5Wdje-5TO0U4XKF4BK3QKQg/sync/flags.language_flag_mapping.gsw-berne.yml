@@ -1,0 +1,9 @@
+uuid: 890067da-3f9b-451e-8274-d8f967612acf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Z0-2iDZ46r80uttn-FfDAcuG-yLkRo8ItBvXi5hNzj8
+source: gsw-berne
+info: 'Flag of Switzerland'
+flag: ch

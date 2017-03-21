@@ -1,0 +1,9 @@
+uuid: e732cf1e-44ac-4e50-a1ed-740d3944627f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: v_IeOOVP2pj9ZWq0-zPMm6oXOE-Ej7M9feS3yIYLxEg
+source: fi
+info: 'Flag of Finland'
+flag: fi

@@ -1,0 +1,9 @@
+uuid: 1884651c-31db-4326-94a6-fc70307b4102
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: a5BHTx6L3H_rP5UHKGD7-8OpJc1IIn7fcYHIDtGWAcA
+source: hu
+info: 'Flag of Hungary'
+flag: hu

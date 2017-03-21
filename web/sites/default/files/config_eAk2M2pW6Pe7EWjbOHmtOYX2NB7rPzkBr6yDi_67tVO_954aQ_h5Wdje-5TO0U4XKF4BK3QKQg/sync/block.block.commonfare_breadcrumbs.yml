@@ -1,0 +1,30 @@
+uuid: dd15251d-7077-4a58-90d3-84fccece8882
+langcode: en
+status: false
+dependencies:
+  module:
+    - node
+    - system
+  theme:
+    - commonfare
+_core:
+  default_config_hash: X--e2TttqYGiUHojVqwqaJC-t4PyXdVUyQZZM9wcuoQ
+id: commonfare_breadcrumbs
+theme: commonfare
+region: '-1'
+weight: -6
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  provider: system
+  label_display: '0'
+visibility:
+  node_type:
+    id: node_type
+    bundles:
+      welfare_organization: welfare_organization
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'

@@ -1,0 +1,22 @@
+uuid: 9a6884f8-3988-4fb1-9c65-e4ad2c4e8b3b
+langcode: en
+status: false
+dependencies:
+  module:
+    - search
+  theme:
+    - commonfare
+_core:
+  default_config_hash: RoXwoATaqYvLErxNYZLQI0s4V6zoZiv5gUpnPQIUzQs
+id: commonfare_search
+theme: commonfare
+region: '-1'
+weight: -8
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  provider: search
+  label_display: visible
+visibility: {  }

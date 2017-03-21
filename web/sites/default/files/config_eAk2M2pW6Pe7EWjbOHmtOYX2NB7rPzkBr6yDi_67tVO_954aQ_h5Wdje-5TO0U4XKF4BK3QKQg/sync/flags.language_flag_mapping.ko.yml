@@ -1,0 +1,9 @@
+uuid: b914d5b4-9aaa-4ac8-97bd-1cd7cb067212
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1eTggWl0H1OegWfOpXFq7GImt7uhXOmxBCBYQ4i2Bhc
+source: ko
+info: 'Flag of South Korea'
+flag: kr

@@ -1,0 +1,9 @@
+uuid: 6d0b451b-dd9d-4efc-9c93-0d82449cf017
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NZLBgof9JplQUffTFJgIPgSsx94fhXtNdXHwJMeViOY
+source: sl
+info: 'Flag of Slovenia'
+flag: si

@@ -1,0 +1,8 @@
+uuid: 05619adc-47ba-441f-9094-f73342ea3bdf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: L0uLXi0e6wxfAzVu967TAxrCR7TGonj8lGpcoKG3RGk
+source: mh
+flag: mh

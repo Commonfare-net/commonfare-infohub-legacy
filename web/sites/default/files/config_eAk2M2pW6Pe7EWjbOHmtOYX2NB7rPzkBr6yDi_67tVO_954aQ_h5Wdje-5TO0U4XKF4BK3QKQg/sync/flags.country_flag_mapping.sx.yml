@@ -1,0 +1,8 @@
+uuid: a2eb75e1-231f-43c3-9cf0-5f93bcaee185
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KkAQdfkNINKnELIbfdnsJHeEA-BeYaD-8rPbmiEBC84
+source: sx
+flag: sx

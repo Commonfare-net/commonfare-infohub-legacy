@@ -1,0 +1,8 @@
+uuid: 1485eb81-d1e9-4090-9d8f-9f2cc2844bbd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RfV0rBIdw2FQMjbddaIP6mufaG2BqDm2f2lpTMIJ3Fk
+source: au
+flag: au

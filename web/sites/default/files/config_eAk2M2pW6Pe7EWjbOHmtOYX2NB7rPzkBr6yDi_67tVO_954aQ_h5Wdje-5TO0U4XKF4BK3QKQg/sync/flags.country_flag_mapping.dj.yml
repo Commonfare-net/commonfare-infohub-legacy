@@ -1,0 +1,8 @@
+uuid: 61dc3945-424f-4e37-a359-69f7b046d646
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qF8DCgvpzjb2HqMR-FoPUxN6pklVNjgngnXdkwrYhHI
+source: dj
+flag: dj

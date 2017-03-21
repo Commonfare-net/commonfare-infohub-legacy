@@ -1,0 +1,8 @@
+uuid: 214e3829-45c5-4dbc-a992-49768f1f9168
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dpuqrevjZPDFs1vovXAGcBFxf5r9v0MI8YWuQo7ZTsA
+source: hr
+flag: hr

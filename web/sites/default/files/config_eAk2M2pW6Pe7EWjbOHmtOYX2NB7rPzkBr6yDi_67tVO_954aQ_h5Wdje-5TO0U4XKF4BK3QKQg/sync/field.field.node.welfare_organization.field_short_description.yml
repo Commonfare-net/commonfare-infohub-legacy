@@ -1,0 +1,21 @@
+uuid: 10506562-e232-40ce-85ed-b06d2e227590
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_short_description
+    - node.type.welfare_organization
+  module:
+    - text
+id: node.welfare_organization.field_short_description
+field_name: field_short_description
+entity_type: node
+bundle: welfare_organization
+label: Summary
+description: 'A short description of the content to give a fast overview of the measure. Ensure to create <b>at least</b> an English version and eventually a version in the language where the measure apply'
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

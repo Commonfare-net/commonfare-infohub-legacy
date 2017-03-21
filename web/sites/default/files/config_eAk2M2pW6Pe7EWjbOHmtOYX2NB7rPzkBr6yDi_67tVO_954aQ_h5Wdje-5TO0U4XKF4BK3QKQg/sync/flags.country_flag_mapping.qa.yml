@@ -1,0 +1,8 @@
+uuid: 572288b2-57da-401a-80b2-cea5404d4ace
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TBbY4pCbf5y9HZWzYD_hSArD82etWHE2-8F2vurMoAM
+source: qa
+flag: qa

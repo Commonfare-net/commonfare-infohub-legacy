@@ -1,0 +1,9 @@
+uuid: 57e8e910-573f-4a17-b1c0-09091f65de96
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: q5TCfsHOfGAsoYE3wDL1qn4K8c58uq0SzI_FcekDMpU
+source: az
+info: 'Flag of Azerbaijan'
+flag: az

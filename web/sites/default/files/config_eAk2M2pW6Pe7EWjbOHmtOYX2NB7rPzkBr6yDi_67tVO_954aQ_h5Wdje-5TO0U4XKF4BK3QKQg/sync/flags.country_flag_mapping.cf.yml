@@ -1,0 +1,8 @@
+uuid: 3a500f26-a757-49bd-b747-cd1e35514f9b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Hq9UXE7yo4o5W7a3U2rBZ-fLdkb2KfNI0p-g93lOEN4
+source: cf
+flag: cf

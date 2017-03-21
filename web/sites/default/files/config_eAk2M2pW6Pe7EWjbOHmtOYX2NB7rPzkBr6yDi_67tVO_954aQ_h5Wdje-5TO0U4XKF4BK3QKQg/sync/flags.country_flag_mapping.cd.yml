@@ -1,0 +1,8 @@
+uuid: 774a0b11-405b-4625-bde9-4a7b5b04e770
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nZwDCX4YTSUkQWt33m65wwIGUeHBCRMsKPxZvVpLHzU
+source: cd
+flag: cd

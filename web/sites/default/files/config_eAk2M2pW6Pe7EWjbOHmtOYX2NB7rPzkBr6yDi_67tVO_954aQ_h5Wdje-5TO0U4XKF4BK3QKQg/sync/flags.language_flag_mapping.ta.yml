@@ -1,0 +1,9 @@
+uuid: 0667f422-a6ea-4ad1-bc8a-7f269250c163
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: p_7vF9cePorZAe1ecT5obsNdWHiWoRIz2-KniUjVupI
+source: ta
+info: 'Sri Lankan Tamil Ethnic flag'
+flag: tam

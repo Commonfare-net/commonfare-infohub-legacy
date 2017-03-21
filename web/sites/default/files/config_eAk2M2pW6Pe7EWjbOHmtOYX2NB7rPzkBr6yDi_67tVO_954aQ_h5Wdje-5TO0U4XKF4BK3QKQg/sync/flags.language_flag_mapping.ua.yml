@@ -1,0 +1,9 @@
+uuid: bcddd07b-4f26-48e5-8662-4a4b9b384f33
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1UTPREpVvonbeTj1d18wQaR-fmXTvzf5GeoG_rzcBOM
+source: ua
+info: 'Flag of Ukraine'
+flag: ua

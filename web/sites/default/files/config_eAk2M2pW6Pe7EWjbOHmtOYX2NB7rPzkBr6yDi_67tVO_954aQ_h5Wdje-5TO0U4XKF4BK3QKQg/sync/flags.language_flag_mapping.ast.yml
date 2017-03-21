@@ -1,0 +1,9 @@
+uuid: 549ce4af-aebd-4d88-be18-d0918343549b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VBaF3KjFFUHm5O5b2BEICm2aH7XbxuH7p3kOauqkVMM
+source: ast
+info: 'Flag of Asturias'
+flag: es-as

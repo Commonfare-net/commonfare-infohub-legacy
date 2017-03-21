@@ -1,0 +1,9 @@
+uuid: e4d6dd10-ae0b-4739-9c74-8cdaf55b5658
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jP9CWIk1BdQFkzzyYEEBBq8EBCJMIHZFbvISGgcnk-w
+source: mn
+info: 'Flag of Mongolia'
+flag: mn

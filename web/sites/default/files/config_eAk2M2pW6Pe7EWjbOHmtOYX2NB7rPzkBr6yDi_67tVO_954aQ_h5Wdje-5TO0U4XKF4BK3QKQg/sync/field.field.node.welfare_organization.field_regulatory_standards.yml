@@ -1,0 +1,21 @@
+uuid: ae811b5a-5927-4ce4-8968-9f487f4d0582
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_regulatory_standards
+    - node.type.welfare_organization
+  module:
+    - text
+id: node.welfare_organization.field_regulatory_standards
+field_name: field_regulatory_standards
+entity_type: node
+bundle: welfare_organization
+label: 'Regulatory standards'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

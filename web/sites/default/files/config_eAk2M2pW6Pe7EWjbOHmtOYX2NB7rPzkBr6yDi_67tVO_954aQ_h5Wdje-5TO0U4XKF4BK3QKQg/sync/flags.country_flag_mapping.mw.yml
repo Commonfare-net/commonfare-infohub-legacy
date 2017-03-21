@@ -1,0 +1,8 @@
+uuid: a1dbf5a4-65c3-46f5-a08b-4cb0d58e08cb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4q2KxP537fO35PUxwMZySJE5X-hawD0stX-hyurQK6g
+source: mw
+flag: mw

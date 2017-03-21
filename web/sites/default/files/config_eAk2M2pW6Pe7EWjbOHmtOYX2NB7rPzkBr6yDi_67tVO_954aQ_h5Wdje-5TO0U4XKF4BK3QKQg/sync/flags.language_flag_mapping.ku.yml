@@ -1,0 +1,9 @@
+uuid: de0fe4dc-3eea-450c-9d49-3132a796d33a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XoPv6mq8NWUFodREeLLYk5bDz_DbvfSXrjUmOsqWV8Q
+source: ku
+info: 'Flag of Kurdistan'
+flag: kur

@@ -1,0 +1,9 @@
+uuid: 318959a1-7743-4578-a938-47737fc97c2a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: o-dGcW411-BI1Q441QJP9TaKP8aLRMe2EHJSQ7CXZa8
+source: am
+info: 'Flag of Ethiopia'
+flag: et

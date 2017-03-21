@@ -1,0 +1,30 @@
+uuid: 7c664c46-d3dd-457d-84b3-19908e0a1faf
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.welfare_measure_sections
+  module:
+    - system
+    - views
+  theme:
+    - commonfare
+id: views_block__welfare_measure_sections_block_1_2
+theme: commonfare
+region: content
+weight: -8
+provider: null
+plugin: 'views_block:welfare_measure_sections-block_1'
+settings:
+  id: 'views_block:welfare_measure_sections-block_1'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: "/node/19\r\n/informing"
+    negate: false
+    context_mapping: {  }

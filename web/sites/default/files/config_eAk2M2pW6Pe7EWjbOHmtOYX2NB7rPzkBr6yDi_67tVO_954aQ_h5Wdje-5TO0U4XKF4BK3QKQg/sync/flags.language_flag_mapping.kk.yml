@@ -1,0 +1,9 @@
+uuid: 4245fe65-e36a-40c8-a1e6-b0759abf95aa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Po6jgpsFnqr70UfAleU26t-1-fsTdJFARUEuV919p3o
+source: kk
+info: 'Flag of Kazakhstan'
+flag: kz

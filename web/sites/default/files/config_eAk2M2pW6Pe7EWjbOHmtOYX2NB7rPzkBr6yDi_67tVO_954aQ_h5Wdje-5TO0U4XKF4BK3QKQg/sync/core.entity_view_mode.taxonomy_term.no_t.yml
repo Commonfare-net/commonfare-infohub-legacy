@@ -1,0 +1,10 @@
+uuid: ac0d2903-075b-47a9-9212-3bd00086d3cb
+langcode: en
+status: true
+dependencies:
+  module:
+    - taxonomy
+id: taxonomy_term.no_t
+label: 'no title'
+targetEntityType: taxonomy_term
+cache: true

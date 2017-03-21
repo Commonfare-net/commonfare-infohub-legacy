@@ -1,0 +1,10 @@
+watchdog: true
+rir: arin
+md5_checksum: false
+update_interval: 604800
+debug: false
+test_type: 0
+test_country: ''
+test_ip_address: ''
+_core:
+  default_config_hash: C41t0CIzB5aWwQLK63ZSh11Fk3YWkcJtwmpl97oXNmo

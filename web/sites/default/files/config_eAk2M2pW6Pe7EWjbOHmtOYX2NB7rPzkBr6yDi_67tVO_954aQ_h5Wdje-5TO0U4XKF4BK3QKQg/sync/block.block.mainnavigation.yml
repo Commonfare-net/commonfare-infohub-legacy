@@ -1,0 +1,24 @@
+uuid: 6d0c8364-a73f-448f-9ed9-9f3d98e6432d
+langcode: it
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - drupal8_zymphonies_theme
+id: mainnavigation
+theme: drupal8_zymphonies_theme
+region: primary_menu
+weight: -7
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  provider: system
+  label_display: visible
+  level: 1
+  depth: 0
+visibility: {  }

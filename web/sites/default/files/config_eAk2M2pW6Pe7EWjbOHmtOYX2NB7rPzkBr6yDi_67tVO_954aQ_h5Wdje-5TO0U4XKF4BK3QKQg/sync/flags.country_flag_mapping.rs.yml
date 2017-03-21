@@ -1,0 +1,8 @@
+uuid: 1f05da62-abbb-4600-afe3-8c790c945746
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QlbbJOcrYwPA_37KJutY2DpLQP5nrmqVY2RGBPKyX90
+source: rs
+flag: rs

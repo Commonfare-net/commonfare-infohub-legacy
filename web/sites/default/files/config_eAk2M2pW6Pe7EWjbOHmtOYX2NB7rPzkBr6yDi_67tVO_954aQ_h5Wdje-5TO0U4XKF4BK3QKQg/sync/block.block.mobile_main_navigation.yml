@@ -1,0 +1,24 @@
+uuid: 92b9f273-763c-4bc9-9ab0-bc57beaa8fed
+langcode: it
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - drupal8_zymphonies_theme
+id: mobile_main_navigation
+theme: drupal8_zymphonies_theme
+region: highlighted
+weight: -8
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Mobile main navigation'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 0
+visibility: {  }

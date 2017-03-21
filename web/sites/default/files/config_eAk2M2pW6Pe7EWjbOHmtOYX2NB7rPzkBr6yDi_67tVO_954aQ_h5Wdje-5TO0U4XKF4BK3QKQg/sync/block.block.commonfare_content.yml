@@ -1,0 +1,22 @@
+uuid: ebc02765-0700-4b89-8ccf-300f0e5ff4c9
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - commonfare
+_core:
+  default_config_hash: gTrqxADXsaTtPPOw-W1RJ5R7cUC8Y7eqDoTBRPKBQNA
+id: commonfare_content
+theme: commonfare
+region: content
+weight: -9
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,8 @@
+uuid: 9ff4d74c-dbd7-4b4c-bac3-5411aec8045e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rfWKMaFQqlsO8Cd2A8JnR8KP1549p2MFRNSyznRs6YU
+source: py
+flag: py

@@ -1,0 +1,8 @@
+uuid: 14f42369-c6df-4b98-844c-5b5c4c7b09a8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wz5KtHpYUZHOyXkY908Hx9SCYNU7Zpp_VMYGjzbFVlU
+source: mz
+flag: mz

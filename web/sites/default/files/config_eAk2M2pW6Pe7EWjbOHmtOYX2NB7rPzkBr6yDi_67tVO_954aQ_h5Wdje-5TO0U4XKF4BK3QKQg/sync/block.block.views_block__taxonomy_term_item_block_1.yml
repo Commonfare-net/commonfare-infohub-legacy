@@ -1,0 +1,30 @@
+uuid: ab45d73f-6a15-44ab-b2ed-c18d4c01ff50
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.taxonomy_term_item
+  module:
+    - system
+    - views
+  theme:
+    - commonfare
+id: views_block__taxonomy_term_item_block_1
+theme: commonfare
+region: page_title
+weight: -9
+provider: null
+plugin: 'views_block:taxonomy_term_item-block_1'
+settings:
+  id: 'views_block:taxonomy_term_item-block_1'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: '/taxonomy/term/*'
+    negate: false
+    context_mapping: {  }

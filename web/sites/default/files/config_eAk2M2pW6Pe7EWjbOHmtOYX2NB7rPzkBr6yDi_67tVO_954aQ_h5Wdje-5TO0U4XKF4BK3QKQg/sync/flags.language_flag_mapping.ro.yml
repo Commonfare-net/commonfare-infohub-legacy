@@ -1,0 +1,9 @@
+uuid: 526bd02b-aad7-4c0e-89db-8e4a134bdb18
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oruT5tqKfyUbjt38_L2Ht7hvC57bT8rizmprInwnvOk
+source: ro
+info: 'Flag of Romania'
+flag: ro

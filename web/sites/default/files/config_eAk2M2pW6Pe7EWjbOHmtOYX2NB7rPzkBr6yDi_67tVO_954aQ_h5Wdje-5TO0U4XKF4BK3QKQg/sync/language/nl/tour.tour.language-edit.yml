@@ -1,0 +1,13 @@
+label: 'Talen bewerken'
+tips:
+  language-edit-overview:
+    label: 'Talen bewerken'
+    body: '<p> Deze pagina biedt de mogelijkheid om een taal te bewerken op uw site, inclusief aangepaste talen. </p>'
+  language-edit-langcode:
+    label: Taalcode
+  language-edit-label:
+    label: Taalnaam
+  language-edit-direction:
+    label: Taalrichting
+  language-edit-continue:
+    label: 'Wordt vervolgd op'

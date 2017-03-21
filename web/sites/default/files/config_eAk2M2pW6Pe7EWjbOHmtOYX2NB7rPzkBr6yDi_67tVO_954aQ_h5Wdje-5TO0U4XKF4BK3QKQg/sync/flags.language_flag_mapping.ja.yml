@@ -1,0 +1,9 @@
+uuid: 37d0d1cb-0db7-427b-a654-135e2b7636c4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Bn0nk5QWFsz-9y8yD7yuDHoMYICjl-LERfYbK8Y6pvs
+source: ja
+info: 'Flag of Japan'
+flag: jp

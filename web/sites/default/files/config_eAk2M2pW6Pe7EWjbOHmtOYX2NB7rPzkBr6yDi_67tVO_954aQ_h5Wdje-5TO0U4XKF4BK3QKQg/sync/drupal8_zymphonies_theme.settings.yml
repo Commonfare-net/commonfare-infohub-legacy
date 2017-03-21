@@ -1,0 +1,24 @@
+features:
+  comment_user_picture: 1
+  comment_user_verification: 1
+  favicon: 1
+  logo: true
+  name: true
+  node_user_picture: 1
+  slogan: true
+facebook_url: 'https://www.facebook.com/PieNewsCommonfare/'
+twitter_url: 'https://twitter.com/hashtag/pienews+commonfare'
+google_plus_url: ''
+linkedin_url: ''
+pinterest_url: ''
+rss_url: rss.xml
+copyright_text: ''
+show_social_icon: 1
+show_credit_link: 0
+_core:
+  default_config_hash: FIKpUAUBhRvu30trYoPz9z7O8dAeWlZ3GILxKamftng
+logo:
+  use_default: 0
+  path: 'public://logo.svg'
+favicon:
+  use_default: 1

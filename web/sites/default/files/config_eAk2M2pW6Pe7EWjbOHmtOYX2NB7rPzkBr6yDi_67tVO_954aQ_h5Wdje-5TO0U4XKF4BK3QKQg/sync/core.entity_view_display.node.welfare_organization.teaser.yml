@@ -1,0 +1,29 @@
+uuid: 599c09b9-912d-40ed-8f36-2ac61a5ab139
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.welfare_organization.field_content
+    - field.field.node.welfare_organization.field_short_description
+    - field.field.node.welfare_organization.field_tags
+    - node.type.welfare_organization
+  module:
+    - text
+    - user
+id: node.welfare_organization.teaser
+targetEntityType: node
+bundle: welfare_organization
+mode: teaser
+content:
+  field_short_description:
+    type: text_default
+    weight: 0
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  field_content: true
+  field_tags: true
+  langcode: true
+  links: true

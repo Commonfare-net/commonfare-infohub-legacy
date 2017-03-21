@@ -1,0 +1,27 @@
+uuid: d67d5a98-0291-493a-a37f-54520ff609e2
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - commonfare
+_core:
+  default_config_hash: aCZb5QHTORp8r2OkFaXZhmRr41kMfUnH8eskFio1Z-o
+id: commonfare_page_title
+theme: commonfare
+region: page_title
+weight: -7
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility:
+  request_path:
+    id: request_path
+    pages: '/taxonomy/term/*'
+    negate: true
+    context_mapping: {  }

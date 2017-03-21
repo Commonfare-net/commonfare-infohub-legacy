@@ -1,0 +1,9 @@
+uuid: 48dc9617-5a6a-4f06-948e-9718567f195b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gENZJ4GqCo2r7BnKWRVjhhGT1qOPlCaRI5rcUQJZuoA
+source: en-nz
+info: 'Flag of New Zealand'
+flag: nz

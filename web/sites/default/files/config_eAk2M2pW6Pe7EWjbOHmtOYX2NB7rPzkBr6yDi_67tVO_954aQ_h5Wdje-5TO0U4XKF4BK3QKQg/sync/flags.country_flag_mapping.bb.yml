@@ -1,0 +1,8 @@
+uuid: 1dc20322-3a69-44a4-b56c-813d1c86401b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YRcCof1cfN-IGPYjoFyBbVp3W_Bd7HateFLUN-0exWs
+source: bb
+flag: bb

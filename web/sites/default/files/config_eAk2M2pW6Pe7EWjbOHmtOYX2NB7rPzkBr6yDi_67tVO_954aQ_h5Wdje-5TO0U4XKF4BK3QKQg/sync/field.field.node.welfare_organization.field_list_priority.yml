@@ -1,0 +1,25 @@
+uuid: 0ab09c71-8a04-40e1-b058-ab219b790d77
+langcode: it
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_list_priority
+    - node.type.welfare_organization
+id: node.welfare_organization.field_list_priority
+field_name: field_list_priority
+entity_type: node
+bundle: welfare_organization
+label: 'List Priority'
+description: 'Set this field to control the order of this element in a list. Setting an higher value will set this value to the top of the list. A smaller value will set the content down to the bottom'
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

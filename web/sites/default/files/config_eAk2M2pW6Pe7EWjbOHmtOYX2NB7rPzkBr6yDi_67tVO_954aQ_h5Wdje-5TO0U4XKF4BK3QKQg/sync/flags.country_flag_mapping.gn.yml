@@ -1,0 +1,8 @@
+uuid: 349a0e50-ed9d-4cf9-b421-89bd9e03e44e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: iS32cowG8AyPDS4fbPaiW52Wm2LujAcQm0f1Juf7iJ4
+source: gn
+flag: gn

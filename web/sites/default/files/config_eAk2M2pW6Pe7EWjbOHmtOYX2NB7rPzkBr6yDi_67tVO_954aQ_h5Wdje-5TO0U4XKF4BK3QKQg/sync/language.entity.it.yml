@@ -1,0 +1,9 @@
+uuid: caaf8636-22da-4680-a5af-58228027003f
+langcode: en
+status: true
+dependencies: {  }
+id: it
+label: Italian
+direction: ltr
+weight: 1
+locked: false

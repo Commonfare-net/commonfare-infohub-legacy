@@ -1,0 +1,8 @@
+uuid: 8e3d6cd8-7fac-44d4-9f58-1c537c8dd183
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dbfbiwUSWZkqVg1m0zMTu2sildU6wv--x8yKH0za528
+source: gg
+flag: gg

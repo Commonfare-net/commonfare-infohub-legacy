@@ -1,0 +1,9 @@
+uuid: 7d4cb3f9-cee7-446e-a190-2484a711b30f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JF27adZaNYwAUNajIiUJSUuVcpnBfjf8sYkkSvCcO2k
+source: sv
+info: 'Flag of Sweden'
+flag: se

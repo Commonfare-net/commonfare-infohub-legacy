@@ -1,0 +1,9 @@
+uuid: a1c562cb-bd84-4630-a5ff-5d9229e78c12
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FIx9Nppu-WEtXzgGPKZ1p-eC-Dmi7FkA6AqGwXKpsgA
+source: tyv
+info: 'Flag of Tuvalu'
+flag: tyv

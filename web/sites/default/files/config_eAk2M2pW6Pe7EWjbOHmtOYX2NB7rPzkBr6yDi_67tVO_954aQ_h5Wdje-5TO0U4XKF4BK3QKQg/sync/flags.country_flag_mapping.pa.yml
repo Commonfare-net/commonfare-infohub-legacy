@@ -1,0 +1,8 @@
+uuid: 66368364-6b76-4ed9-a271-a9e33125890f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SJNp6B_Bc_3QS715iO9vtCP_L7OScJBvY2t8F420qBY
+source: pa
+flag: pa

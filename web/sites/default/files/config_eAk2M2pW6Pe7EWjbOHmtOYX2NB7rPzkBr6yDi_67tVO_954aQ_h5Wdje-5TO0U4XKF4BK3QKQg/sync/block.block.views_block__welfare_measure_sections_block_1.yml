@@ -1,0 +1,30 @@
+uuid: ef9142ab-4439-4de2-9acf-65886a9689d1
+langcode: it
+status: true
+dependencies:
+  config:
+    - views.view.welfare_measure_sections
+  module:
+    - system
+    - views
+  theme:
+    - drupal8_zymphonies_theme
+id: views_block__welfare_measure_sections_block_1
+theme: drupal8_zymphonies_theme
+region: content
+weight: 0
+provider: null
+plugin: 'views_block:welfare_measure_sections-block_1'
+settings:
+  id: 'views_block:welfare_measure_sections-block_1'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: "/node/19\r\n/informing"
+    negate: false
+    context_mapping: {  }

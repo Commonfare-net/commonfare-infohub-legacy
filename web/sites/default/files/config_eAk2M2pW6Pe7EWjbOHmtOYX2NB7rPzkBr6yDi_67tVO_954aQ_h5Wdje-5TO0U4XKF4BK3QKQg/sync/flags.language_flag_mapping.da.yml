@@ -1,0 +1,9 @@
+uuid: 88a587c6-3df0-4555-a700-5105f4a6fe8c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qdgSU5AhmnJ68FqCiltiZNh-5k75P6zJtV7WL7Fp9D4
+source: da
+info: 'Flag of Denmark'
+flag: dk

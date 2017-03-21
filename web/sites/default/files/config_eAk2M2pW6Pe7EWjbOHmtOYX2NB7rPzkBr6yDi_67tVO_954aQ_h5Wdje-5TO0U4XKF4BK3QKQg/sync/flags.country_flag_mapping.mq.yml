@@ -1,0 +1,8 @@
+uuid: 1a3b8ed2-699e-4fd4-a13a-f17ad4b3de24
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3iu9rxqyXZ_2cxcqz6veP2L1JITvuFGGFdnESP9PmOg
+source: mq
+flag: mq

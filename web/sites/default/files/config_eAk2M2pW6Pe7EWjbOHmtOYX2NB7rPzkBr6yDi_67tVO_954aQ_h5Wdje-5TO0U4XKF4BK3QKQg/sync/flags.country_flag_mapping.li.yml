@@ -1,0 +1,8 @@
+uuid: f997b678-ad6b-41bb-90f9-91c13c5ed6d5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xxS6DQtRzt62uMr3iKHV60YZ3yt5Lw8t1ViJmX7kmsY
+source: li
+flag: li

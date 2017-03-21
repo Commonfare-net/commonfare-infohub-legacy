@@ -1,0 +1,19 @@
+uuid: 9c40faf2-62a4-4dec-bd6b-bf93e89640d3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_awarding_body
+    - node.type.welfare_organization
+id: node.welfare_organization.field_awarding_body
+field_name: field_awarding_body
+entity_type: node
+bundle: welfare_organization
+label: 'Awarding body'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

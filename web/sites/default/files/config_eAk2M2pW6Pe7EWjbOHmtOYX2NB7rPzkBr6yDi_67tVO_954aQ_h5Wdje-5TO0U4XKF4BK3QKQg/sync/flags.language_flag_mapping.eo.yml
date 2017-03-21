@@ -1,0 +1,9 @@
+uuid: 052fa440-1ff2-4743-90ff-f1df2bbe5168
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Cds2vJ21_tVrkMM-oY2TI_LJnKtGepJ0hlkramoZMno
+source: eo
+info: 'The Esperanto Flag'
+flag: epo

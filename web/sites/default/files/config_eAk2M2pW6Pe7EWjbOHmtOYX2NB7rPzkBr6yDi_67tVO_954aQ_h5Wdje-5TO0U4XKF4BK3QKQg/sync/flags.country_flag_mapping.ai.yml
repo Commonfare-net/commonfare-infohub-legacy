@@ -1,0 +1,8 @@
+uuid: ebc14ee5-64bf-4a73-b62e-0245adc2fee8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: btao6VZVVH1VIzLoDSvgUCler47MX_V_aGYVTT2QFts
+source: ai
+flag: ai

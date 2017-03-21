@@ -1,0 +1,8 @@
+uuid: bb45ef0e-e058-4806-9b42-6e5df8c7ec52
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: S1Gb8AZzdvC-aI7zW_rfrQbz0dl_W6CcKU7LWBVZ1MA
+source: nc
+flag: nc

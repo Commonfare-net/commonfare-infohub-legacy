@@ -1,0 +1,9 @@
+uuid: f459a39b-18e6-4469-99ef-ebfac5c1191e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: b-tGIXi2g70dghAvswwJIRANX6nw61xenPvZILNAcEI
+source: mg
+info: 'Flag of Madagascar'
+flag: mg

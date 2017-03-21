@@ -1,0 +1,9 @@
+uuid: bf9d92fa-54ec-43c2-88be-3b81442a0aff
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GRV3CKM_R2mW41y54lDb7caDLd6giP3WcOYswUncn_s
+source: sr
+info: 'Flag of Serbia'
+flag: rs

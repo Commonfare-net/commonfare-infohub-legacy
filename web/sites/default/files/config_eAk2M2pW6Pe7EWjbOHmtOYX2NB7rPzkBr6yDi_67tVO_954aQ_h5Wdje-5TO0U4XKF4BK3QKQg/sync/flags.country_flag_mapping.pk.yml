@@ -1,0 +1,8 @@
+uuid: 6cafa64d-4729-4f6c-8503-719499031c39
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5ihx5PdiUr-Wcj1Dqo93psMeUZvNOtZLUkQF-YI4Xkc
+source: pk
+flag: pk

@@ -1,0 +1,30 @@
+uuid: 616c7390-8a26-48f9-b33d-d15688d82f68
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.welfare_information
+  module:
+    - system
+    - views
+  theme:
+    - drupal8_zymphonies_theme
+id: views_block__welfare_information_block_1
+theme: drupal8_zymphonies_theme
+region: content
+weight: -6
+provider: null
+plugin: 'views_block:welfare_information-block_1'
+settings:
+  id: 'views_block:welfare_information-block_1'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: "informing*\r\nnode/19"
+    negate: false
+    context_mapping: {  }

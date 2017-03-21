@@ -1,0 +1,8 @@
+uuid: 8feb039d-b916-4023-9884-950e433480f9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XtFfyZilXtCaNwjuFee8OLLSouom9UGrDIHVQ5nVl00
+source: zw
+flag: zw

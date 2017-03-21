@@ -1,0 +1,9 @@
+uuid: e6a13a00-0c48-45d1-8f2a-989595c2e873
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: x1xqjosw4l-N9G6XAOzoicamuvEtc7sgKyN_l3iNQ8Q
+source: dz
+info: 'Flag of Bhutan'
+flag: bt

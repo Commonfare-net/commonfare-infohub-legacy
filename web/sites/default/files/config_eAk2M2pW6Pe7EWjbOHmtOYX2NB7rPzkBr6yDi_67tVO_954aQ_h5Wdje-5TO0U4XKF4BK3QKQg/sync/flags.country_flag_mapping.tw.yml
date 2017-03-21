@@ -1,0 +1,8 @@
+uuid: b2229581-5b87-46aa-97de-160139dee1f9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3riuIzU5CjPRNw4GQqRx4Vk2qUO6Cx_t1rCR5VVaRYY
+source: tw
+flag: tw

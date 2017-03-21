@@ -1,0 +1,8 @@
+uuid: 31fd0fe2-9fbb-4c16-9224-9164ba9104ae
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: huHBbALNR1qTb308PohEnENbzNjMB9aSiRbskeomLGo
+source: af
+flag: af

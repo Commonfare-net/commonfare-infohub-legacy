@@ -1,0 +1,8 @@
+uuid: f2db5073-6dc8-4c6e-ac44-6cf6ec421af8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wyiSnD9lJwlinr3R_e3Q2fRsB7J5Ba5vdKOOobbEleU
+source: tm
+flag: tm

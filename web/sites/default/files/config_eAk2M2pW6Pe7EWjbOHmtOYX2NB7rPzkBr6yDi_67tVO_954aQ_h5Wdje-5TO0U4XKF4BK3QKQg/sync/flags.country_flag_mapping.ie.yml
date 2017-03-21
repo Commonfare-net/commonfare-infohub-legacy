@@ -1,0 +1,8 @@
+uuid: 76023434-4c52-4dd8-a5a0-2396c57d9257
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gg-PqifeeNMVw3jOpgUEAQksrIbnV7kmWF4O7SrtHwE
+source: ie
+flag: ie

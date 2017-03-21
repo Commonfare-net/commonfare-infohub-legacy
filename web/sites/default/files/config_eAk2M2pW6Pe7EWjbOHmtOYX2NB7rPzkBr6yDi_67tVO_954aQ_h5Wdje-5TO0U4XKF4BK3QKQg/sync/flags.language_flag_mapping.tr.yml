@@ -1,0 +1,9 @@
+uuid: 3a8e2add-c971-41c7-a894-dec94e4202d9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6oaDgl42ryeBThDAdnyfYxplG43voPkqE27bOgdMTNs
+source: tr
+info: 'Flag of Turkey'
+flag: tr

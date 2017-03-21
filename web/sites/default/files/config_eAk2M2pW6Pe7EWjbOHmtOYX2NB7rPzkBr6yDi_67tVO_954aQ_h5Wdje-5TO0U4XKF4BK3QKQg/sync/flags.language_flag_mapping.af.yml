@@ -1,0 +1,9 @@
+uuid: c35e00ac-51db-4c15-9ff1-0817cfda5a11
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nAS8en33xNy0SCQAYWtSV0OlKXXsz2x7zBsGzoEVRLA
+source: af
+info: 'Flag of South Africa'
+flag: za

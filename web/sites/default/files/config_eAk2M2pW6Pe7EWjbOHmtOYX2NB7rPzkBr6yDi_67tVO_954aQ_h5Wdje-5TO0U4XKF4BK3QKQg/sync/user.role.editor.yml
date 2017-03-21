@@ -1,0 +1,26 @@
+uuid: 476c8102-8e05-4609-829b-dc5cf4bd9573
+langcode: it
+status: true
+dependencies: {  }
+id: editor
+label: Editor
+weight: -8
+is_admin: null
+permissions:
+  - 'post comments'
+  - 'skip comment approval'
+  - 'access contextual links'
+  - 'use text format basic_html'
+  - 'use text format full_html'
+  - 'use text format restricted_html'
+  - 'access content overview'
+  - 'administer nodes'
+  - 'delete all revisions'
+  - 'revert all revisions'
+  - 'view all revisions'
+  - 'view own unpublished content'
+  - 'access content'
+  - 'access in-place editing'
+  - 'access shortcuts'
+  - 'edit terms in tags'
+  - 'access toolbar'

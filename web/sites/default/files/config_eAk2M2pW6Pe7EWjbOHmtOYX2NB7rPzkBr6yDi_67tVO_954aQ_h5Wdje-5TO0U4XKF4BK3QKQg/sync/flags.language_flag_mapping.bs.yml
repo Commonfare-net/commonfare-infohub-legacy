@@ -1,0 +1,9 @@
+uuid: 0c0af502-6e9c-47d9-ac1a-cfafb4d9624f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5mKaRdu3WYRBrObgISAkHss8_SBjDPwUtmBWWwwVvgI
+source: bs
+info: 'Flag of Bosnia and Herzegovina'
+flag: ba

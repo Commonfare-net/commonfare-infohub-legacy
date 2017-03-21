@@ -1,0 +1,22 @@
+uuid: c6c42775-f0ff-4efc-9427-7d125158ea11
+langcode: en
+status: true
+dependencies:
+  theme:
+    - commonfare
+_core:
+  default_config_hash: 1HwyYHqoJA6FMCER0su5JfsvgokmE6zULoYvY4aG2hg
+id: commonfare_local_tasks
+theme: commonfare
+region: auto_hidden_block
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  provider: core
+  label_display: '0'
+  primary: true
+  secondary: true
+visibility: {  }

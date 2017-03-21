@@ -1,0 +1,8 @@
+uuid: e9eae9d5-3a25-48bf-8133-37bb8c5c65ac
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AwuOZ8fSKetMdrkYHY06YAxuCXL27Y09srhoS5DuxJ0
+source: va
+flag: va

@@ -1,0 +1,8 @@
+uuid: a2c6b344-a4df-4134-80c3-7474dcc9508f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: syyxjfhhMyYtCe9XFzqZd_fcu8Ok40k6C7KCQEW06gs
+source: ps
+flag: ps

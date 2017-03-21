@@ -1,0 +1,9 @@
+uuid: 6deb60f6-2c78-46af-b89b-284ede6978c5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0XivGiGcBukoASGpZQ6xGYV_eo_Mkb0LDs65euush2g
+source: bd
+info: 'Flag of Bangladesh'
+flag: bd

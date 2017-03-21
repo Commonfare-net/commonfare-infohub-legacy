@@ -1,0 +1,9 @@
+uuid: 8c070bc3-99dc-43ab-aabb-4d3f7be5c51c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: znUTH-X9bkMZuRhWQLxIjTPQRmaY8zW-3lDOXZ8CfNc
+source: ca
+info: 'Flag of Catalonia'
+flag: es-ct

@@ -1,0 +1,9 @@
+uuid: 085ee6ee-bf60-40cd-bb7e-954eb22e44e3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: R7NSzq8PW_1FBYdsaL0Cb5pB1IoTAS3ifGMDjqbCpzM
+source: fo
+info: 'Flag of the Faroe Islands'
+flag: fo

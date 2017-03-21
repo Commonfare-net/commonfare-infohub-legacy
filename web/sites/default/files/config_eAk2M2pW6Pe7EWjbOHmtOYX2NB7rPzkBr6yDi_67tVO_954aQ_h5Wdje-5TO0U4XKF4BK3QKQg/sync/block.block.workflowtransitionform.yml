@@ -1,0 +1,22 @@
+uuid: 85467c4a-63b7-4626-864f-54045aa94971
+langcode: en
+status: true
+dependencies:
+  module:
+    - workflow
+  theme:
+    - bartik
+_core:
+  default_config_hash: Vlu0W1a-S5N7EuSAx6SrVtfAkv0TdnMZV5WagVaBvJk
+id: workflowtransitionform
+theme: bartik
+region: sidebar_second
+weight: -7
+provider: null
+plugin: workflow_transition_form_block
+settings:
+  id: workflow_transition_form_block
+  label: 'Workflow Transition form'
+  provider: workflow
+  label_display: visible
+visibility: {  }

@@ -1,0 +1,9 @@
+uuid: 471d5021-96ee-4055-84f3-d51b3533aae5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wPVQPZEsAxNBmKWKWCqKinb-nRDsVyEiie6GoXe80R0
+source: sw
+info: 'Flag of Tanzania'
+flag: tz

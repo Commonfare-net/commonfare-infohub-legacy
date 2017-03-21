@@ -1,0 +1,8 @@
+uuid: e6594d5c-ce7f-48b4-9da8-54d47f62b65b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9G5RU7cyEYT51uuQqI6ZHUay1ZpK0Lh7huSDblcxcYc
+source: ea
+flag: es

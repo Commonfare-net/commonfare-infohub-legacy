@@ -1,0 +1,8 @@
+uuid: 45545b46-036f-49e0-a9fc-9e5db949453b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hVIHh7d_Su3TYrV8RW0MBXILw4MMpSRYSFz38gLM2HY
+source: pw
+flag: pw

@@ -1,0 +1,30 @@
+uuid: 59c1276b-5270-424e-9fbd-499d60eabdb9
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_competence
+field_name: field_competence
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: State
+      label: State
+    -
+      value: Regional
+      label: Regional
+    -
+      value: Province
+      label: Province
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

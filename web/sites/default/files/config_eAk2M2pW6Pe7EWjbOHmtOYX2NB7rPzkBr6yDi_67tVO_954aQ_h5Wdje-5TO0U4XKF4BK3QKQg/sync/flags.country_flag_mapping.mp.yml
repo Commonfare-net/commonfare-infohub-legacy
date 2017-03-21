@@ -1,0 +1,8 @@
+uuid: d9582985-152a-4c2b-a564-90b8bfbf2f33
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TgX16n1HhggfkEcEZzyme5H5kS_DxP-e4rjZYYjk63c
+source: mp
+flag: mp

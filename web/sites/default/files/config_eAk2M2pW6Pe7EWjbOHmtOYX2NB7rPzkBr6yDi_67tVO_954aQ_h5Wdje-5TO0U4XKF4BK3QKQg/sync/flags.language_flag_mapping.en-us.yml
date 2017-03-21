@@ -1,0 +1,9 @@
+uuid: dc481ed3-2930-48ea-b203-93ad55c33a9b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fq_BTTCPoc7fradPlBbguc3nB2-oDudIb5foZCmVC-A
+source: en-us
+info: 'Flag of the United States'
+flag: us

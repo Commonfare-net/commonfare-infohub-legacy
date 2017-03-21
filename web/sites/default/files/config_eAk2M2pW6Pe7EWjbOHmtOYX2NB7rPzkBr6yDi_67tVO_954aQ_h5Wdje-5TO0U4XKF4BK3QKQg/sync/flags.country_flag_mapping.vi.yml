@@ -1,0 +1,8 @@
+uuid: 611f3b90-1975-4d73-b382-31446d2a12b7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GM20_CUrYeHXscdQ0RUQ9261f0YTTl0EMmk4ZMxzQmY
+source: vi
+flag: vi

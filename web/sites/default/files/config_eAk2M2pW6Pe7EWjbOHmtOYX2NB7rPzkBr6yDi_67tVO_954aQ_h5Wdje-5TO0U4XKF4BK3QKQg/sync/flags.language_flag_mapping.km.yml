@@ -1,0 +1,9 @@
+uuid: 32ff064c-1a2c-4df1-b3f4-474ae4d01066
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fdVc00Et-pwTxzmqaxnfzJhe5jjVmn56Gs90UnFs7PU
+source: km
+info: 'Flag of Cambodia'
+flag: kh

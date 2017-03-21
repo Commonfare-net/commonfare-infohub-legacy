@@ -1,0 +1,9 @@
+uuid: d6b8f20a-c31f-444c-92e0-62bfcd56bfee
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tB91iTQdiW0uw_DHOsX6F7dOinL3Ijsp0DOJYZaQGkg
+source: fr
+info: 'Flag of France'
+flag: fr

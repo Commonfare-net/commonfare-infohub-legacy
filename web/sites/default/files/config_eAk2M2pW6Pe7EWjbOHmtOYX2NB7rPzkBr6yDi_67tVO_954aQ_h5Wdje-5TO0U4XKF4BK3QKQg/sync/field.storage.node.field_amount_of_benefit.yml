@@ -1,0 +1,19 @@
+uuid: 6c1b5780-7083-4c77-96a9-2f47cdd8ceef
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - text
+id: node.field_amount_of_benefit
+field_name: field_amount_of_benefit
+entity_type: node
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

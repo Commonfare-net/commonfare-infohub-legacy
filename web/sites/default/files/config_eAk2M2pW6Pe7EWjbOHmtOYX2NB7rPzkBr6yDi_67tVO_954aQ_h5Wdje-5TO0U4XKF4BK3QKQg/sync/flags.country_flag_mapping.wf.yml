@@ -1,0 +1,8 @@
+uuid: da4c57e1-f1aa-494e-8edf-52b0f52b9261
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Kv1xyWs62k92nS3BiPukBga8fRd9-Fu7748LPqpQleE
+source: wf
+flag: wf

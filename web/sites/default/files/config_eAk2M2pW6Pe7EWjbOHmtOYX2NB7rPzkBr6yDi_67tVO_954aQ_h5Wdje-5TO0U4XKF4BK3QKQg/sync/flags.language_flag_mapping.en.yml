@@ -1,0 +1,9 @@
+uuid: 2788d801-dcf1-4be2-bc70-31f7238f9ece
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2rOHI3Zd9WVT729_KbYIZ5Sm1OM0rrv63vBjCxQRE9M
+source: en
+info: 'Flag of the United Kingdom'
+flag: gb

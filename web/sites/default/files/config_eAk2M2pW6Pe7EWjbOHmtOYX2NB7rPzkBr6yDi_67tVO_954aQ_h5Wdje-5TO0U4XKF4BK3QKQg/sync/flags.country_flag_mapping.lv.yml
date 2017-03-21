@@ -1,0 +1,8 @@
+uuid: 053a0547-f748-467d-8a5e-becdc3409515
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KN6IiN0epeIA7NY-a6SIW_A1Fo2lHOANAueW1WlTshM
+source: lv
+flag: lv

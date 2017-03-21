@@ -1,0 +1,8 @@
+uuid: 3bca2920-a354-4c3f-b380-0c16becc7e74
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: g-HddztRKJy3NPWsyRQfLPIV7KAao96tf2gz1e73KQs
+source: mk
+flag: mk

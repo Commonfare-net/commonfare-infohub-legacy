@@ -1,0 +1,20 @@
+uuid: 95970775-8583-4f1e-a14a-f30d610813e2
+langcode: en
+status: true
+dependencies:
+  theme:
+    - commonfare
+_core:
+  default_config_hash: XaC62TKlhZgPnqaGgc5VY09wVv_fLTZjnAZFwqIUlcY
+id: commonfare_local_actions
+theme: commonfare
+region: auto_hidden_block
+weight: -7
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }

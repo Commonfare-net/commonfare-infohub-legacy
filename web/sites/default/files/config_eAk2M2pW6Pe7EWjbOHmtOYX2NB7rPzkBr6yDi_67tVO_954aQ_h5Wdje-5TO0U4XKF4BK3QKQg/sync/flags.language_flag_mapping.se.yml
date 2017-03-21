@@ -1,0 +1,9 @@
+uuid: bd97c3c3-4576-4b00-a97a-2bf52f66a5f7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8sxEF_dMJ9LjO8LHyEYOibyuukW42JjReGVtE-DI1fM
+source: se
+info: 'Sami flag'
+flag: sme

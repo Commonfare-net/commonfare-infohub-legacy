@@ -1,0 +1,22 @@
+uuid: a379ce4b-b6e6-425d-abb6-abd332bff4dc
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - commonfare
+_core:
+  default_config_hash: 1V4ONIYfrxPTXIZRkX4F9FDlslQLl0XZWyrMysy4ZEA
+id: commonfare_messages
+theme: commonfare
+region: highlighted
+weight: -5
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

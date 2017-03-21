@@ -1,0 +1,22 @@
+uuid: a833c5e7-777a-4d54-a590-1b22156e9adf
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - commonfare
+_core:
+  default_config_hash: ClI6ICp1xM_ax1uDoRZz7hDaS8WxTnfT0lHnMu1wTEM
+id: commonfare_powered
+theme: commonfare
+region: auto_hidden_block
+weight: -7
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  provider: system
+  label_display: '0'
+visibility: {  }

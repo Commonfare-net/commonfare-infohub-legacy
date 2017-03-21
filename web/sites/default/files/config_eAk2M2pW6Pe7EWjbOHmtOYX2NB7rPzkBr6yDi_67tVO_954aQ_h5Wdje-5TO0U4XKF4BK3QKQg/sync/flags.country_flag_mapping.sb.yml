@@ -1,0 +1,8 @@
+uuid: aa48f63e-6bfb-4b09-9e9a-e48ea22130b0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DixuTwOwYZu3wmD2C9TVkxYdhG07go9Fcxt0EpNxkb4
+source: sb
+flag: sb

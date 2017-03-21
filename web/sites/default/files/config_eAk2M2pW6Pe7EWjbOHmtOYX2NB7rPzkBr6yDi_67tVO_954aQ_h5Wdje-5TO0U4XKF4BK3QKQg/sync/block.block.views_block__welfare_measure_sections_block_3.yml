@@ -1,0 +1,32 @@
+uuid: fc1c3747-7110-4a0b-b0ad-9b1107922d20
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.welfare_measure_sections
+  module:
+    - node
+    - views
+  theme:
+    - commonfare
+id: views_block__welfare_measure_sections_block_3
+theme: commonfare
+region: content
+weight: 0
+provider: null
+plugin: 'views_block:welfare_measure_sections-block_3'
+settings:
+  id: 'views_block:welfare_measure_sections-block_3'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility:
+  node_type:
+    id: node_type
+    bundles:
+      welfare_organization: welfare_organization
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'

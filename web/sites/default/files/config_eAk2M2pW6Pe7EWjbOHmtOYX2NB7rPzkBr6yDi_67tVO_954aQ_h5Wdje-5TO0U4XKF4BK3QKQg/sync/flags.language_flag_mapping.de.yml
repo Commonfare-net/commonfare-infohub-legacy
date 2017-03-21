@@ -1,0 +1,9 @@
+uuid: 95648403-f421-4069-8aff-373905ff4109
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fnvTd8KtFK2lKv2r2NPjEIxOLuLVqctg3FXwMNENOAY
+source: de
+info: 'Flag of Germany'
+flag: de

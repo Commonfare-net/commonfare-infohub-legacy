@@ -1,0 +1,8 @@
+uuid: 72c16bc9-5ffd-41e9-b4e1-624887493a1c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Zmdx8O-UZ2YsozvtB4-RQTMT6wV-Lu-scQiaGzJggPA
+source: fj
+flag: fj

@@ -1,0 +1,9 @@
+uuid: 74c0fd21-6640-46d9-ac5a-af80c7c33276
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9KP-w5wuyxtib7qTjIWslAcLqOkAVOPP6HfcbauDAHY
+source: bo
+info: 'Flag of Tibet'
+flag: bod

@@ -1,0 +1,8 @@
+uuid: 51b997cd-d84a-418a-b2b8-1f7a271b5ae5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LxXWiD_oVd7eEDlRFSdt0e8HA6VBdily90zdtM5SpAs
+source: ee
+flag: ee

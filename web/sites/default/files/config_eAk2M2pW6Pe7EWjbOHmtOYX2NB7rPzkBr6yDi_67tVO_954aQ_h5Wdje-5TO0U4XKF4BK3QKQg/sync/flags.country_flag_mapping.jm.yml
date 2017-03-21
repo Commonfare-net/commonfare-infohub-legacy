@@ -1,0 +1,8 @@
+uuid: 5ffc987b-8c37-4aca-b0b0-2432f1dded69
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: p5ZWT_lsTUefqyqYiUey9ybdMuPozDWYJj9OYd-70IA
+source: jm
+flag: jm

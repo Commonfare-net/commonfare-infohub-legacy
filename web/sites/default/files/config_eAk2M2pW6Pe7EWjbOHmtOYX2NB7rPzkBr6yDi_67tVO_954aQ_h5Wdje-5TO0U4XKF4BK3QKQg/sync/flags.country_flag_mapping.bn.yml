@@ -1,0 +1,8 @@
+uuid: b61815ea-447f-43cd-b749-4168c806e6fb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TEmdTTI_Og7FtmCUzzvG_o8vc1A5C0-9v1O0k7WvJWA
+source: bn
+flag: bn

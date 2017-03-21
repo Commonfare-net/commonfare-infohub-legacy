@@ -1,0 +1,8 @@
+uuid: 2dad1354-c77b-44d9-9659-f6b944f5a9a0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HbiDOM3ae3tlj-KJKvp0BLx086LvNPzEb97LDOKBRus
+source: ec
+flag: ec

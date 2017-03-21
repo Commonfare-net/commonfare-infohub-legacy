@@ -1,0 +1,8 @@
+uuid: b543baab-25a5-4b34-9c6f-4336f5cbbb49
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CtGzFHUePUAx6wTR5y5dKq-BJYa0RkA401iwJmMlyd8
+source: fk
+flag: fk

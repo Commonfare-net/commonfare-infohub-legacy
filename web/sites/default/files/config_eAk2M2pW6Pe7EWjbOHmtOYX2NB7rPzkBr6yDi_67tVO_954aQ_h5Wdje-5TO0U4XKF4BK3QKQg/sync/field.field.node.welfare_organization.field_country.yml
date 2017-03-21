@@ -1,0 +1,21 @@
+uuid: c780fb08-a5c6-4dc5-8853-281a019cd2ba
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_country
+    - node.type.welfare_organization
+  module:
+    - options
+id: node.welfare_organization.field_country
+field_name: field_country
+entity_type: node
+bundle: welfare_organization
+label: Country
+description: 'Select the country where this measure apply'
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

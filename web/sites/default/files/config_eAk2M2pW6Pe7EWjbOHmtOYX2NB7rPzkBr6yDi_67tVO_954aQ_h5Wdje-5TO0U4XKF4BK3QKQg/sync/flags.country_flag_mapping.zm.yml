@@ -1,0 +1,8 @@
+uuid: 527c1b32-a838-4619-93c4-0a79f688bb01
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vweh7T_h2P8l068OXcAZq6Aj7wam22WwL5rGU2Z_MsU
+source: zm
+flag: zm

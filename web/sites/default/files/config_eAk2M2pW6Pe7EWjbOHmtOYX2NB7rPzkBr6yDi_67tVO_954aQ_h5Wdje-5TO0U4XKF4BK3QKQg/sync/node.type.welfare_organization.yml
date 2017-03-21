@@ -1,0 +1,17 @@
+uuid: c0dfa754-f314-44c4-ab84-56c5cfe1722c
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: 'Welfare Measure'
+type: welfare_organization
+description: ''
+help: 'This document provides a synthetic overview of the main social welfare measure'
+new_revision: true
+preview_mode: 1
+display_submitted: false

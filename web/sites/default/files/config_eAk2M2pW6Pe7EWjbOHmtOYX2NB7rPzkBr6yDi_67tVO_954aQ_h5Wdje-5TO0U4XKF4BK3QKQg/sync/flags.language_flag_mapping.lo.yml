@@ -1,0 +1,9 @@
+uuid: 47c18607-9047-4584-98ef-8d06cc7da062
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EqN2A6I0XnZH4WziaMcjfV8Abp9WszZBxHeFQ3tsK9Y
+source: lo
+info: 'Flag of Laos'
+flag: la

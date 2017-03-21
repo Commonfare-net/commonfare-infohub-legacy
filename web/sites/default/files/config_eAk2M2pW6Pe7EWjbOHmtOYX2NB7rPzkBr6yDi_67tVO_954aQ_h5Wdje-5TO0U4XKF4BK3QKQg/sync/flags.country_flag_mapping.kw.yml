@@ -1,0 +1,8 @@
+uuid: c02822c7-2f62-4e4b-b30d-f5eb4bd0dee8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-T1wUzS4e0ma2bENOU7rtZh1XGQlJmetAWEk0vdYFF8'
+source: kw
+flag: kw

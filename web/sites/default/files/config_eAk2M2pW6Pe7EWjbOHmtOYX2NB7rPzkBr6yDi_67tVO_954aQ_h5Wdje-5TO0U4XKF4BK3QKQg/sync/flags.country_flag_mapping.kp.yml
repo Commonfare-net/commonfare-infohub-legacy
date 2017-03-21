@@ -1,0 +1,8 @@
+uuid: 331e7e6c-fd36-47a6-bac8-29a084c525be
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nP9rp0HM3XDDtDvQ93a8yOyY_-BWWdxs6aSXutEf3No
+source: kp
+flag: kp

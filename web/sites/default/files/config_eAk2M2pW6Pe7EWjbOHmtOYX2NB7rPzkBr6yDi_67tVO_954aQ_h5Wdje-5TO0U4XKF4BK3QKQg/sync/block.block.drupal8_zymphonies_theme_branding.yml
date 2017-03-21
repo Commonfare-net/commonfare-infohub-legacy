@@ -1,0 +1,25 @@
+uuid: d9c4aa8e-ea10-4513-b5b8-fbf5305e9b22
+langcode: en
+status: false
+dependencies:
+  module:
+    - system
+  theme:
+    - drupal8_zymphonies_theme
+_core:
+  default_config_hash: I1mVPaNy2HynGDxN6quW2alTxwh2wpLrepeJZEQb5ww
+id: drupal8_zymphonies_theme_branding
+theme: drupal8_zymphonies_theme
+region: '-1'
+weight: -8
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Branding del sito'
+  provider: system
+  label_display: '0'
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }

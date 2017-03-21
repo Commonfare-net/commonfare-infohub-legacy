@@ -1,0 +1,9 @@
+uuid: 88d1a4dd-944e-413f-a2be-7bb95ed698a2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oHjb0jzo0PxwXigMIZ5N33GIPGMcukHlZ7rqk00rA0E
+source: mk
+info: 'Flag of Macedonia'
+flag: mk

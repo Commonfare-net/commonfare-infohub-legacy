@@ -1,0 +1,8 @@
+uuid: 82048f6e-0c4c-4013-9d32-21660e93530e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QaMit0uP8DgdNq12PBXsfNsKiyOXpwVdf3aKlXd6QE0
+source: ls
+flag: ls

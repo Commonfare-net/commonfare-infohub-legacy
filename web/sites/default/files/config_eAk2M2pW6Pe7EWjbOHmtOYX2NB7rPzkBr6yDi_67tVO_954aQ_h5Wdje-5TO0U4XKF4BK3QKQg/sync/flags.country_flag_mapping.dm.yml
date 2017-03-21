@@ -1,0 +1,8 @@
+uuid: 5a25dd68-4dc4-45ec-9c5b-71d21ae496df
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hy-g2AZQWdaXXvk1Wq3FpsX_wMVUJ5Al18yk-Uk1dI0
+source: dm
+flag: dm

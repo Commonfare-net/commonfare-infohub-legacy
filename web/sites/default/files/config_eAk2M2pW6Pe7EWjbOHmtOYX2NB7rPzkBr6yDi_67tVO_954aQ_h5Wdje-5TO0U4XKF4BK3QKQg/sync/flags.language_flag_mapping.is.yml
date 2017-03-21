@@ -1,0 +1,9 @@
+uuid: 92580229-26b7-48f1-ad93-1459f3180d52
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vzNJGP1GtcP_nhJ4SekbpS0KJFl6Im0jab8JHB9rBww
+source: is
+info: 'Flag of Iceland'
+flag: is

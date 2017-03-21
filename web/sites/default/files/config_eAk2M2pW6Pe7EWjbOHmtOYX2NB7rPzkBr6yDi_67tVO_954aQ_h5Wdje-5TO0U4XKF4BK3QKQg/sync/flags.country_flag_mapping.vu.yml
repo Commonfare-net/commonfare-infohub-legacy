@@ -1,0 +1,8 @@
+uuid: 0996724a-6ecd-4afc-9cfa-227a482b6bc8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tM13vjMni74uultLSO7c27SoKiGQ2mXFLawMxiEUi1o
+source: vu
+flag: vu

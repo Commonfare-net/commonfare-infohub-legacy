@@ -1,0 +1,21 @@
+uuid: 4cd7b353-a6bd-41eb-b24b-1b5cd30ac7d6
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_beneficiaries
+    - node.type.welfare_organization
+  module:
+    - text
+id: node.welfare_organization.field_beneficiaries
+field_name: field_beneficiaries
+entity_type: node
+bundle: welfare_organization
+label: Beneficiaries
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

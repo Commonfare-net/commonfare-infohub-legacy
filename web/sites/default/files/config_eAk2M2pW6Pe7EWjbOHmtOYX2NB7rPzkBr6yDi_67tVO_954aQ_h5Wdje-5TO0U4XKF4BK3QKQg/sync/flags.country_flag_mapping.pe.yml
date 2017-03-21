@@ -1,0 +1,8 @@
+uuid: 340c914a-1028-4b96-9f9d-1463d00c6eea
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xT71XOqo72_Mrk9Hx2nfF3a4uGQj59bEoIX4ztRFumE
+source: pe
+flag: pe

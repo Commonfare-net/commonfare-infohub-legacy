@@ -1,0 +1,9 @@
+uuid: 97dbd07d-5f2f-4dc2-b66a-054445eddb22
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lah5e9HVWXUReMWo4l6bwih4WvbKbRdFywMTTDf-LKI
+source: sq
+info: 'Flag of Albania'
+flag: al

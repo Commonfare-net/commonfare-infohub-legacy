@@ -1,0 +1,8 @@
+uuid: 801858df-b5f8-4e09-9247-85d961673c69
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YV1MPuutjO7F1hhXRRKdeN4hcbeXJG83auyg43Mf-hA
+source: ck
+flag: ck

@@ -1,0 +1,9 @@
+uuid: 185b522b-858a-4b65-ba84-d6fb36c77a6b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IkRLDFKRZ6mJPxMs1DaozdYaVYcqb8oxQZZwcajjoPo
+source: fil
+info: 'Flag of the Philippines'
+flag: ph

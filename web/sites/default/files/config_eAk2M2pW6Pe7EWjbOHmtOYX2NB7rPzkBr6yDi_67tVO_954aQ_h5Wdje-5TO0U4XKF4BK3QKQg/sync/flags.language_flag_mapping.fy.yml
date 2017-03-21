@@ -1,0 +1,9 @@
+uuid: 3ef9c2e3-178b-4b8e-9315-e154be0e4913
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: t2zjXLK9z9Pp98WXw6nTbNzAcjFda0SjZCNQdwoJ1Us
+source: fy
+info: 'Flag of Friesland'
+flag: nl-fy

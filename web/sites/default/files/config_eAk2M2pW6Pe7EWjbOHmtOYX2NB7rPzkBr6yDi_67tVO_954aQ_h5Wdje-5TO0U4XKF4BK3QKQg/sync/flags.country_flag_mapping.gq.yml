@@ -1,0 +1,8 @@
+uuid: dced33a8-6b83-4ffc-9cc1-1a1b5601ff6b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tNYutttIHyCi6uYruHGo6VumsGpVlX_CL-uPgzHsoUI
+source: gq
+flag: gq

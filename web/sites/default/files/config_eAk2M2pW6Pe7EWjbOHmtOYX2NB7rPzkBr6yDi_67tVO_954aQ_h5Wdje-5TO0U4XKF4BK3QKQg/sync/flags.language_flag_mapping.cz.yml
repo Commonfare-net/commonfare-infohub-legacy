@@ -1,0 +1,9 @@
+uuid: de1b68ad-8d72-4302-a1bb-b659932403ec
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: r1BdXLHZCEPHaKT8o9IaBOI9PlqsavpoZijm4B472jk
+source: cz
+info: 'Flag of the Czech Republic'
+flag: cz

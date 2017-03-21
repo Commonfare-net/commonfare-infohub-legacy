@@ -1,0 +1,11 @@
+uuid: 1e5c9b26-5db2-49ce-aec9-4ed815ae20c1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lO5ziR5dVI1PpEeHZsSOfQ-Y7NWihSDKW8-MMf6uoms
+name: 'Welfare Measure (Tags)'
+vid: tags
+description: ''
+hierarchy: 0
+weight: 0

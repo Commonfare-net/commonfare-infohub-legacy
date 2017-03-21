@@ -1,0 +1,20 @@
+uuid: b6118a12-c70d-4bea-91b8-5cdc75000245
+langcode: en
+status: true
+dependencies:
+  theme:
+    - drupal8_zymphonies_theme
+_core:
+  default_config_hash: XCWqSeTOh5bXVI1Ed_mwnOXna4OL408bB_FTwxqPEp8
+id: drupal8_zymphonies_theme_local_actions
+theme: drupal8_zymphonies_theme
+region: auto_hidden_block
+weight: -8
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Azioni di amministrazione principali'
+  provider: core
+  label_display: '0'
+visibility: {  }

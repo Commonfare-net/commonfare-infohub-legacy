@@ -1,0 +1,8 @@
+uuid: 0022ebbe-e243-4b6e-be21-e105b65ef11b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6P_erXE3g9SaCwivOqL5ksCEfn_4C6kKkHYrmFDNm9A
+source: ms
+flag: ms

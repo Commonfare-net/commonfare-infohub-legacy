@@ -1,0 +1,9 @@
+uuid: a193efd4-8da1-45e3-aa29-4aff5957c2b6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: axCQ6xdHiz8W6RZ1H-WUuO_M3iT7fv1lwHeA0urAA_g
+source: be
+info: 'Flag of Belarus'
+flag: by

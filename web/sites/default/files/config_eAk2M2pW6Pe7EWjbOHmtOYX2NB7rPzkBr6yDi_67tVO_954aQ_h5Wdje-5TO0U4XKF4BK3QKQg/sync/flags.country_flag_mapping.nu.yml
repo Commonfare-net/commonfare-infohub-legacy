@@ -1,0 +1,8 @@
+uuid: 76b503bd-d6b4-48fa-b2e7-06f29b4c8c3e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZNRCwu4xQW7ak3BnE60ZJ_6taScuLGrc5JGlyWj4C0g
+source: nu
+flag: nu

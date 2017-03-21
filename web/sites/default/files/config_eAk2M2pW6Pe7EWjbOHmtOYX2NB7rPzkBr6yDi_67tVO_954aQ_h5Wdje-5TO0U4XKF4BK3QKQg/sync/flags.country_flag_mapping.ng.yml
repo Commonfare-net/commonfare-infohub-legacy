@@ -1,0 +1,8 @@
+uuid: c683ac64-1fd1-48df-964c-bd9f2d67251b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OS6CqynsvV5pcEV3GQyixkOTOtZUtP1tabQaRaVYkUA
+source: ng
+flag: ng

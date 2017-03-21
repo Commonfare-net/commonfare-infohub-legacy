@@ -1,0 +1,9 @@
+uuid: bec56f1f-0b7a-49ab-834f-eebb08268637
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: swX4jOmzntPw7maJFE7syuXDOgsvsAF8zpveceF1KS4
+source: ga
+info: 'Flag of Ireland'
+flag: ie

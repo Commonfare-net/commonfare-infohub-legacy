@@ -1,0 +1,20 @@
+label: Vertaling
+tips:
+  locale-overview:
+    label: Gebruikersinterface-vertaling
+  locale-language:
+    label: Vertalingstaal
+    body: 'Kies de taal die u wilt vertalen.'
+  locale-search:
+    label: Zoeken
+  locale-filter:
+    label: 'Zoekresultaten filteren'
+  locale-submit:
+    label: 'De zoekcriteria toepassen'
+    body: 'Klik op de <em>Filter</em>-knop om de zoekcriteria toe te passen.'
+  locale-translate:
+    label: Vertalen
+  locale-validate:
+    label: 'De vertaling valideren'
+  locale-continue:
+    label: 'Wordt vervolgd op'

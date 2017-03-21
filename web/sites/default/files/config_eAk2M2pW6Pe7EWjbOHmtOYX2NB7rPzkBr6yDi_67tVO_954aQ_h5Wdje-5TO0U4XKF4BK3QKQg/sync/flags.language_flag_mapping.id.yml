@@ -1,0 +1,9 @@
+uuid: 6731489a-0441-41c0-8a0b-9e483c056ef9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mhao5g8GQEmM3zrYLVqyJfzkwjVKoJCT-AdyiZjxP2U
+source: id
+info: 'Flag of Indonesia'
+flag: id

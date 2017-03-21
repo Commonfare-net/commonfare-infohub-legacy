@@ -1,0 +1,8 @@
+uuid: d24bfe10-305c-420d-b1bc-29064def4481
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kseADvwI-L4_i8WnZmyT0NSzGh-PLRhM1nKepSmHRUg
+source: ta
+flag: ta

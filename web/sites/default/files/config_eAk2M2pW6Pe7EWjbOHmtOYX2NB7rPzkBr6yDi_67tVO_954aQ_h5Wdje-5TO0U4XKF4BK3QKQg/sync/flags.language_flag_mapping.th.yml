@@ -1,0 +1,9 @@
+uuid: 3c6bd604-2cf4-48a9-8087-165258922106
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sCVb_rIVKyq1llB4JCIEXGMKzlyAyN01IcNYrK_arMg
+source: th
+info: 'Flag of Thailand'
+flag: th

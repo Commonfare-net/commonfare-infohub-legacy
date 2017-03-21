@@ -1,0 +1,8 @@
+uuid: 41dfc6e6-f58e-4357-9618-a413ffc97a65
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0t6BLUu9MIys6TYhW_MKbjrqMyC52OyxGyKNnDRSeSo
+source: ky
+flag: ky

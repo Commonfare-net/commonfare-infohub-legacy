@@ -1,0 +1,9 @@
+uuid: 9573da56-76aa-4f41-9304-b01f769dab87
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HV9eGUoHMSLWdw0yiuJUMqDtNFrx1TsCxlK8Ut7vKI0
+source: ug
+info: 'Flag of East Turkestan'
+flag: uig

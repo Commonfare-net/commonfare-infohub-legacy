@@ -1,0 +1,8 @@
+uuid: b69cc1bf-298e-4c79-b66b-5516ef23178e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1vPm7QeXPzCC68ggPW1WxxUYJoUrKLUvGcjfptb4-uw
+source: cu
+flag: cu

@@ -1,0 +1,9 @@
+uuid: 7dba4d26-463b-406f-a466-ab848f94e2d3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EFl7_xo1DNiudVLCxjFJE8CLhPyRPiqcLdA4hsAy7o0
+source: ht
+info: 'Flag of Haiti'
+flag: ht

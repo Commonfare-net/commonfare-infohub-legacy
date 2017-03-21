@@ -1,0 +1,8 @@
+uuid: bc588c8f-c0a4-4b6f-a884-bb2a2ee4d007
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JiGIunNbn2Nd__VANpb-ES7botYGIrLWl3VeY97sOf8
+source: cx
+flag: cx

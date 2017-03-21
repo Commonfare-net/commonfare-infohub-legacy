@@ -1,0 +1,9 @@
+uuid: 053d2f00-6391-4156-8317-bbfd95e44af6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Gjzkt3LNimZ1TwPvm8m3e6HMkHghTUuKrrFHG2Snjn4
+source: pt-br
+info: 'Flag of Brazil'
+flag: br

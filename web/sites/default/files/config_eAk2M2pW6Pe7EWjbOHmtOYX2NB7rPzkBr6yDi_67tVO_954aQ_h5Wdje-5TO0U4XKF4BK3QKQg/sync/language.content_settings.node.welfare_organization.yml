@@ -1,0 +1,16 @@
+uuid: f304621d-fd2a-42ae-a4e2-c3b5943e6e2c
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.welfare_organization
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: true
+id: node.welfare_organization
+target_entity_type_id: node
+target_bundle: welfare_organization
+default_langcode: site_default
+language_alterable: true

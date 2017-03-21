@@ -1,0 +1,8 @@
+uuid: d4ee35e4-3db8-4c4c-bc81-38b6ccfd3bdc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DCKi8u_RaDzZ4cslwfTDGfKLBlK487HIAug6LkWDV8k
+source: tk
+flag: tk

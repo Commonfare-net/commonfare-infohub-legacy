@@ -1,0 +1,8 @@
+uuid: 69f152e6-9eee-41c6-a745-491d0117468c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AMxioeklXDK_CvEK3oXl906s32apRQB4Q838T2G7Fl4
+source: ci
+flag: ci

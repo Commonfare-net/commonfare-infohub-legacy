@@ -1,0 +1,21 @@
+uuid: 768f7bd3-5345-4818-80e3-772aa5e4ba84
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_duration
+    - node.type.welfare_organization
+  module:
+    - text
+id: node.welfare_organization.field_duration
+field_name: field_duration
+entity_type: node
+bundle: welfare_organization
+label: Duration
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

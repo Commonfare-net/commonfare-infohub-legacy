@@ -1,0 +1,8 @@
+uuid: 6c4c6e96-3339-4c59-a0f4-06a03e54326b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KRUVbSLG4xAPBPtNBylIXssGzwIR4_4qNnnv-w7aU4Y
+source: bw
+flag: bw

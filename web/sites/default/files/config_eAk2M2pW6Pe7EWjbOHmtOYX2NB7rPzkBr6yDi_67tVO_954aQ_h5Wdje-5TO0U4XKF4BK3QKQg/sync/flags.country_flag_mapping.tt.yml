@@ -1,0 +1,8 @@
+uuid: 9656810b-c4af-4f2b-90e4-d7769cbfffac
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xGBZUdf-kZBAFX6cBSaEeRMLvBilPGTFml1Vmpcy4B4
+source: tt
+flag: tt

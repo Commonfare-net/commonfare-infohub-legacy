@@ -1,0 +1,8 @@
+uuid: 833f34d9-8349-4121-a141-667938bbf4d0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 31EAQr-NS123fCD22mhg097KQQt1d335P5WtLUI8lYk
+source: mt
+flag: mt

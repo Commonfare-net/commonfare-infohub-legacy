@@ -1,0 +1,9 @@
+uuid: b7f524cd-31b9-45f8-8e27-8c013cd30cfb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: h3-EjuQ9UhcfERjimY4rKcVBTtiawpZ4KdCrFcSN2oc
+source: gd
+info: 'Flag of Scotland'
+flag: gb-sct

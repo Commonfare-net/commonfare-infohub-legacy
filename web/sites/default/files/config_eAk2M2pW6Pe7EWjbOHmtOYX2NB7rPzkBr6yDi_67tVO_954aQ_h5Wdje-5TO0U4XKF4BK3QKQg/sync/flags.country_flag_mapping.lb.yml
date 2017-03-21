@@ -1,0 +1,8 @@
+uuid: fa69db7e-657d-47b8-aa3c-990201b59499
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: d4bBje78V00UXrEerB377YMsJrzSSn0nleT6ttV2Eic
+source: lb
+flag: lb

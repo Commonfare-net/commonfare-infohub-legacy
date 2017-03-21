@@ -1,0 +1,8 @@
+uuid: 06d3e666-7f2b-4a4a-ab66-2a972066c738
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qnxA0mGhIlktFrJxo039zTSvqNTSsE7t_opFRRNPylk
+source: sg
+flag: sg

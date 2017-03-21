@@ -1,0 +1,29 @@
+label: 'De bewerkpagina bekijken'
+tips:
+  views-main:
+    label: 'Overzichtinstellingen beheren'
+    body: 'De configuratie bekijken of bewerken.'
+  views-ui-displays:
+    label: 'Wordt in dit overzicht weergegeven'
+  views-ui-view-admin:
+    label: Overzichtbeheer
+  views-ui-format:
+    label: Weergaveformaat
+  views-ui-fields:
+    label: Velden
+    body: 'Als dit overzicht velden gebruikt, worden ze hier weergegeven. U kunt op een veld klikken om het te configureren.'
+  views-ui-filter:
+    label: 'Filter het overzicht'
+    body: 'Voeg filters toe om het aantal getoonde resultaten te beperken. Bijvoorbeeld een filter voor <em>Gepubliceerd</em> en selecteer vervolgens <em>Ja</em> om alleen <em>gepubliceerde</em> content te tonen.'
+  views-ui-filter-operations:
+    label: Filteracties
+    body: 'Filters toevoegen, herschikken of verwijderen.'
+  views-ui-sorts:
+    label: Sorteercriteria
+    body: 'Beheer de volgorde waarop de resultaten getoond moeten worden. Klik op een actieve sorteer-regel om deze in te stellen.'
+  views-ui-sorts-operations:
+    label: 'Acties sorteren'
+    body: 'Sorteerregels toevoegen, herschikken of verwijderen.'
+  views-ui-preview:
+    label: Voorbeeldweergave
+    body: 'Een voorbeeld van de overzichts-output weergeven.'

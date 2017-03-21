@@ -1,0 +1,9 @@
+uuid: d1291322-f40e-40c0-b4e8-e2529f08c5b5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DOEi5G3tQ1qIL6fvDcChTiM16ayws4QH4km63gxEOL8
+source: he
+info: 'Flag of Israel'
+flag: il

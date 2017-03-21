@@ -1,0 +1,9 @@
+uuid: 2110ccdd-e184-4655-b871-f2774694c9bb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qsds3nCRR7ijPxgAinTdxagH79m1Yz8bAC-03EtQdyo
+source: el
+info: 'Flag of Greece'
+flag: gr

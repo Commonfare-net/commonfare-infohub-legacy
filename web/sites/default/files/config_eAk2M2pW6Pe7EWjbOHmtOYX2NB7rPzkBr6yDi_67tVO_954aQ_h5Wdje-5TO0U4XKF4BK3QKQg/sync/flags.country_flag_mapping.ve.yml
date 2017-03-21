@@ -1,0 +1,8 @@
+uuid: f9d2ac8e-0558-44a1-bdc6-1467ef72b352
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xwacLLg4Yzyes49bEjpghmYV1O4-LKlv_Cv3l3LI41M
+source: ve
+flag: ve

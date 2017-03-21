@@ -1,0 +1,9 @@
+uuid: a580c4ea-c767-4f55-9dca-aeae44d7cb56
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QgKYnpRY2ki0zrTQSyXzNXYQ-OOqKTCsZVFjt-gMBo0
+source: nn
+info: 'Flag of Norway'
+flag: 'no'

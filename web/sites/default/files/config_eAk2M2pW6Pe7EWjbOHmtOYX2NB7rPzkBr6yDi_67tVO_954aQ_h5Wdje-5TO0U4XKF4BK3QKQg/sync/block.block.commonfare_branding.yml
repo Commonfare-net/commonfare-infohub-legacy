@@ -1,0 +1,25 @@
+uuid: 437cc3c5-0909-4c5c-8a22-424ecea4cfe0
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - commonfare
+_core:
+  default_config_hash: XXMYKzyHgLc638FPa8aP1nPTwgPKxUYcW4R_t37iV2g
+id: commonfare_branding
+theme: commonfare
+region: header
+weight: -9
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  provider: system
+  label_display: '0'
+  use_site_logo: true
+  use_site_name: false
+  use_site_slogan: false
+visibility: {  }

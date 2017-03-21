@@ -1,0 +1,9 @@
+uuid: b7e1976e-4253-46d7-96f6-76d8d9c0fdfb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RwkWHVWsKFDDSJH8-BU5NmYujGw3nOzqWpMmzsGQK7E
+source: oc
+info: 'The Occitan cross'
+flag: oci

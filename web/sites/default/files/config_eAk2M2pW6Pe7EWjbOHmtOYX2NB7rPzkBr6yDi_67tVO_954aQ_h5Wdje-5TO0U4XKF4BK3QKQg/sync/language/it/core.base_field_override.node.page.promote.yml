@@ -1,0 +1,4 @@
+label: 'Promosso alla prima pagina'
+settings:
+  on_label: Acceso
+  off_label: Spento

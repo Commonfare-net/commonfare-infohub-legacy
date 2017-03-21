@@ -1,0 +1,21 @@
+uuid: 7c468a73-0c8f-4311-a93b-7ca88ec015ef
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_amount_of_benefit
+    - node.type.welfare_organization
+  module:
+    - text
+id: node.welfare_organization.field_amount_of_benefit
+field_name: field_amount_of_benefit
+entity_type: node
+bundle: welfare_organization
+label: 'Amount of benefit'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

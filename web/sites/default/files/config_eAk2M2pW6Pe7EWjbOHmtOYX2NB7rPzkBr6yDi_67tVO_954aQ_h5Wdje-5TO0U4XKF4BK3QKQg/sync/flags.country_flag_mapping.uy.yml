@@ -1,0 +1,8 @@
+uuid: 06e3fbb5-d045-4a9f-a622-0bc2dc081fef
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vbM_7nNwxGNBOIA71yQlV9f6EY8fKkFrqmcsacKGcE8
+source: uy
+flag: uy

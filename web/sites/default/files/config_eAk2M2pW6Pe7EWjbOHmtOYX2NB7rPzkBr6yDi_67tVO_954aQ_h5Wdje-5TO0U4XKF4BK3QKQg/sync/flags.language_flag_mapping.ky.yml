@@ -1,0 +1,9 @@
+uuid: 509a230f-8752-4b9a-877d-d909730bb895
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: srO8v_bWGosvNwz6RgHjIROJE7AAWOQS-hb880sneQk
+source: ky
+info: 'Flag of Kyrgyzstan'
+flag: kg

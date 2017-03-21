@@ -1,0 +1,9 @@
+uuid: 96db5dc9-dfaf-4d46-8acf-ef597f8e7117
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5rYynax_7Kwy1xA_QjPoOBeZ1zBxKsFoQLBwatqLA94
+source: cy
+info: 'Flag of Wales'
+flag: gb-wls

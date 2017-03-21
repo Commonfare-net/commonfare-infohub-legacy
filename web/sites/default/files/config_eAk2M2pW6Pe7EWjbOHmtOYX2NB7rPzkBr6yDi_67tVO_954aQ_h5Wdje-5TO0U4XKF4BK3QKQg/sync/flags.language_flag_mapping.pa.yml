@@ -1,0 +1,9 @@
+uuid: 1d28c259-36d4-4eb4-8b11-e67b0039b3d4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ws0QOnkuDP2OGzpcSfrc-uVLmzlYbvDvtvruLxep8uY
+source: pa
+info: 'Flag of India'
+flag: in

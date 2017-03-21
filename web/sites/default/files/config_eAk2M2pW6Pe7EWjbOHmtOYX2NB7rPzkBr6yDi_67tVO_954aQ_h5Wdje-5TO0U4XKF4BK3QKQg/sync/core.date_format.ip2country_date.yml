@@ -1,0 +1,10 @@
+uuid: 115d242d-5671-432d-9772-d2e1eace192c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 19w7fSG7YTaDi7J7qqCpuq4g3kfWq3MHYPSq6LE39jM
+id: ip2country_date
+label: 'Date only (ip2country)'
+locked: false
+pattern: n/j/Y

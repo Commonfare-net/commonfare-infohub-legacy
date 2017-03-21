@@ -1,0 +1,32 @@
+uuid: f41b1956-4f51-4be5-98e9-1de9fd65e573
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.measure_list_by_term
+  module:
+    - node
+    - views
+  theme:
+    - commonfare
+id: views_block__measure_list_by_term_block_1
+theme: commonfare
+region: content
+weight: -7
+provider: null
+plugin: 'views_block:measure_list_by_term-block_1'
+settings:
+  id: 'views_block:measure_list_by_term-block_1'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility:
+  node_type:
+    id: node_type
+    bundles:
+      welfare_organization: welfare_organization
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'

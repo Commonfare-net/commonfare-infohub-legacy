@@ -1,0 +1,15 @@
+uuid: 89913907-6c15-4abb-af02-ea45a96bc91e
+name: Commonfare
+mail: info@commonfare.eu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
+mail_notification: noreply@commonfare.eu

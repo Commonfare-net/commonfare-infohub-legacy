@@ -1,0 +1,258 @@
+
+
+body {
+  font-family: 'Lora', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Asap', sans-serif;
+  color: #078D92;
+}
+
+header.main-header:after {
+  background: rgba(119, 166, 162, 0.80);
+}
+
+
+#block-selettorelingua-2 ul.links li a {
+  width: 16px;
+  display: block;
+  overflow: hidden;
+  height: 16px;
+}
+
+#block-selettorelingua-2 {
+  height: 26px;
+}
+
+#block-selettorelingua-2 ul.links {
+  float: right;
+  margin: 5px;
+}
+
+#block-selettorelingua-2 ul.links li {
+  display: inline-block;
+  margin: 2px;
+}
+
+#block-mobile-main-navigation-2 {
+  background-color: #CCC;
+}
+
+#block-mobile-main-navigation-2 .sm li {
+  display: inline;
+  border: 0 none;
+}
+
+#block-mobile-main-navigation-2 .menu-base-theme a,
+#block-mobile-main-navigation-2 .menu-base-theme a:focus,
+#block-mobile-main-navigation-2 .menu-base-theme a:active,
+#block-mobile-main-navigation-2 .menu-base-theme a.highlighted {
+  display: inline-block;
+  padding: 10px 18px;
+  border: 0px none;
+  color: #333;
+  background-color: transparent;
+}
+
+#block-mobile-main-navigation-2 .menu-base-theme a:active,
+#block-mobile-main-navigation-2 .menu-base-theme a.is-active {
+  color: #FFF;
+}
+
+#block-views-block-welfare-measure-sections-block-1-2 .term-item {
+  padding: 0.15em;
+}
+#block-views-block-welfare-measure-sections-block-1-2 .term-item .views-field-nothing {
+  background-color: #CCC;
+  height: 7.5em;
+}
+
+#block-views-block-welfare-measure-sections-block-1-2 .term-item a.wrapper,
+#block-views-block-welfare-measure-sections-block-1-2 .term-item a.wrapper:active {
+  text-decoration: none;
+  color: #078D92;
+}
+
+#block-views-block-welfare-measure-sections-block-1-2 .term-item .active .desc {
+  padding: 0 0.25em;
+}
+
+#block-views-block-welfare-measure-sections-block-1-2 .term-item .active .desc,
+#block-views-block-welfare-measure-sections-block-1-2 .term-item .active .term-details {
+  display: inherit;
+}
+
+#block-views-block-welfare-measure-sections-block-1-2 .term-item .views-field-nothing.active
+{
+  background-color: #078D92;
+  position: absolute;
+  width: 200%;
+  height: 220px;
+  z-index: 999;
+  transition: all 0.2s ease;
+}
+
+#block-views-block-welfare-measure-sections-block-1-2 .term-item .views-field-nothing.active a.wrapper,
+#block-views-block-welfare-measure-sections-block-1-2 .term-item .views-field-nothing.active a.wrapper:active
+{
+  color: #FFF;
+}
+
+
+#block-views-block-welfare-measure-sections-block-1-2 .term-item .title {
+  padding-top: 2.5em;
+}
+#block-views-block-welfare-measure-sections-block-1-2 .term-item .desc {
+  font-size: 0.8em;
+}
+
+.discover {
+}
+
+.discover span {
+  border-radius: 0.2em;
+  border: 1px solid #FFF;
+  padding: 0.25em 1em;
+  text-align: center;
+  display: block;
+  width: 100px;
+  margin: 0 auto;
+}
+
+div.footer-menu .container {
+  margin-top: 1.5em;
+}
+
+.welfare-info header h2 {
+  display: none;
+}
+
+.welfare-info .welfare-wrapper {
+  background-color: #078D92;
+  padding: 1em 0.5em;
+  margin: 0.5em 0;
+  color: white;
+  min-height: 100px;
+}
+.welfare-info .welfare-wrapper a {
+  color: white;
+}
+.welfare-info .welfare-wrapper .title {
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 1.4em;
+}
+.welfare-info .welfare-wrapper .country {
+  font-size: 0.8em;
+  float: right;
+}
+.welfare-info .welfare-wrapper .desc {
+  text-align: justify;
+  clear: both;
+  margin-top: 0.5em;
+}
+
+.node--type-welfare-organization .node__content .field__label {
+  margin-top: 1em;
+  background: linear-gradient(to right, rgba(237,237,237,1) 0%, rgba(246,246,246,0.84) 82%, rgba(255,255,255,0.6) 100%);
+  color: #078D92;
+  font-size: 1.2em;
+}
+
+/* informing homepage */
+.is-mobile.page-node-type-page .main-header,
+.is-mobile .footer-menu,
+.is-mobile .copyright
+{
+  display: none;
+}
+
+/* informing section*/
+.is-mobile.path-informing #block-mobile-main-navigation-2,
+.is-mobile.path-informing #page-title,
+.is-mobile.path-informing #block-commonfare-branding
+{
+  display: none;
+}
+.is-mobile.path-informing header.main-header:after {
+    background: white;
+}
+.is-mobile.path-informing .main-header {
+    margin-bottom: 0;
+}
+#mobile-title {
+  color: #888;
+  padding: 1em 0;
+  text-align: center;
+  font-family: 'Lora', serif;
+  text-transform: uppercase;
+}
+
+/* informing welfare node */
+.is-mobile.page-node-type-welfare-organization #block-commonfare-branding {
+  display: none;
+}
+.is-mobile.page-node-type-welfare-organization header.main-header:after {
+  background: #77a6a2;
+}
+.page-node-type-welfare-organization .region-page-title h1 {
+  color: #078D92;
+  padding-bottom: 1em;
+  border-bottom: 2pt solid #078D92;
+}
+.page-node-type-welfare-organization #mobile-title,
+.page-node-type-welfare-organization #mobile-title a {
+  color: #FFF !important;
+}
+.page-node-type-welfare-organization .field--name-field-tags {
+  display: none;
+}
+
+
+/* Extra small devices (phones, less than 768px) asdsa*/
+/* No media query since this is the default in Bootstrap */
+
+#block-views-block-welfare-measure-sections-block-1-2 .term-item .desc,
+#block-views-block-welfare-measure-sections-block-1-2 .term-item .term-details {
+  display: none;
+}
+
+#block-mainnavigation {
+  display: none;
+}
+
+.region-breadcrumb {
+  display: none;
+}
+
+.welfare-info header {
+  display: none;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  #block-mainnavigation {
+    display: block;
+  }
+  nav.breadcrumb {
+    display: block;
+  }
+  .welfare-info header {
+    display: block;
+  }
+
+  #block-mobile-main-navigation-2 {
+    display: none;
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}

@@ -1,0 +1,8 @@
+
+commonfare_ui.lang_check:
+  path: '/lang'
+  defaults:
+    _controller: '\Drupal\commonfare_ui\Controller\LangCheckController::content'
+    # _title: 'Hello World'
+  requirements:
+    _permission: 'access content'

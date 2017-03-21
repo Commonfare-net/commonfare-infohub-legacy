@@ -1,0 +1,57 @@
+
+gfonts:
+  css:
+    theme:
+      //fonts.googleapis.com/css?family=Asap|Lora: { type: external }
+
+hammer:
+  version: 1.x
+  js:
+    js/hammer.min.js: {}
+    js/jquery.hammer.js: {}
+  dependencies:
+    - core/jquery
+
+scroll:
+  version: 1.x
+  js:
+    # js/jquery.onepage-scroll.min.js: {}
+    js/onepagescroll.min.js: {}
+  css:
+    theme:
+      js/onepage-scroll.css: {}
+  dependencies:
+    - core/jquery
+
+bootstrap:
+  version: 1.x
+  css:
+    theme:
+      includes/bootstrap/css/bootstrap.min.css: {}
+  js:
+    includes/bootstrap/js/bootstrap.min.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal.ajax
+    - core/drupal
+    - core/drupalSettings
+    - core/jquery.once
+
+global-components:
+  Version: 1.x
+  css:
+    theme:
+      css/sm-core-css.css: {}
+      css/base.css: {}
+      css/font-awesome.css: {}
+      css/custom-style.css: {}
+      css/custom-media.css: {}
+  js:
+    js/jquery.smartmenus.min.js: {}
+    js/custom.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal.ajax
+    - core/drupal
+    - core/drupalSettings
+    - core/jquery.once

@@ -1,0 +1,34 @@
+# foobar
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+
+msgid "Discover"
+msgstr "Ontdek"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Please select the country of your interest"
+msgstr "Selecteer het land waar je in geïnteresseerd bent"
+
+msgid "Sorry, this content is not available in your language"
+msgstr "Sorry deze inhoud is niet beschikbaar in jouw taal"
+
+msgid "I am in"
+msgstr "Ik doe mee"
+
+msgid "Keep me updated"
+msgstr "Hou me op de hoogte"
+
+msgid "Commonfare.net is a PIE News Project"
+msgstr "Commonfare.net is een project van PIE News"
+
+msgid "name@domain.com"
+msgstr "naam@domein.nl"

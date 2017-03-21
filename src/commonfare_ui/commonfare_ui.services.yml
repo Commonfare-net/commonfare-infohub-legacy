@@ -1,0 +1,9 @@
+services:
+  commonfare_ui.redirectmycontenttype:
+    class: Drupal\commonfare_ui\EventSubscriber\CommonfareRedirectSubscriber
+    tags:
+      - { name: event_subscriber }
+  # commonfare_ui.breadcrumb_welfare:
+  #   class: Drupal\commonfare_ui\Breadcrumb\WelfareBreadcrumbBuilder
+  #   tags:
+  #     - { name: breadcrumb_builder, priority: 100 }

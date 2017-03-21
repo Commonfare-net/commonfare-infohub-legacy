@@ -1,0 +1,1002 @@
+
+.breadcrumb li {
+  display: inline;
+}
+.breadcrumb li a {
+  color: #472D33;
+}
+
+.onepage-pagination {
+  display: none;
+}
+
+.ops-section {
+  width: 100%;
+  height: 100%;
+}
+
+.button_how .btn:hover {
+  background-color: #E7472E !important;
+}
+
+.about-main-header .btn-group.open button {
+  box-shadow: none;
+}
+
+.block-views-blockwelfare-measure-sections-block-3 {
+  margin-bottom: 2em;
+}
+
+.block-views-blockwelfare-measure-sections-block-3 li a {
+  color: #472D33;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+/* LanguageSelection: */
+.language-select {
+  font-family: Asap;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+body.commonfare {
+  font-family: Asap;
+  font-size: 18px;
+  color: #472D33;
+  line-height: 24px;
+}
+
+/* SubHeader: */
+.subheader {
+  font-family: Asap;
+  font-size: 24px;
+  color: #6C575C;
+  line-height: 35px;
+}
+/* box: */
+/*box-shadow: 3px 3px 4px 4px rgba(0,0,0,0.50);*/
+
+/* Landing Page - Partecipa */
+.partecipa-page {
+  font-family: Asap;
+  font-size: 24px;
+  color: #472D33;
+  line-height: 35px;
+}
+
+/*Hover for "category btn" - #E7472E;*/
+
+body {
+  background: #FFFAF7;
+  font-family: 'Lora', serif;
+}
+
+body h1, body h2, body h3, body h4, body h5, body h6
+{
+  font-family: 'Asap', sans-serif;
+  color: #EC6C58;
+  font-weight: bold;
+}
+
+body h1 {
+  font-size: 26px;
+}
+
+body h2 {
+  font-size: 2.4em;
+}
+
+body h2 {
+  font-size: 2.2em;
+}
+
+body h3 {
+  font-size: 1.8em;
+}
+
+body h4 {
+  font-size: 1.4em;
+}
+
+#wrapper {
+  padding-bottom: 5em;
+}
+
+#get-informed #wrapper {
+  padding-bottom: 0em;
+}
+
+.block-views-blocktaxonomy-term-item-block-2 .term-name,
+.block-views-blocktaxonomy-term-item-block-2 .term-name a
+ {
+  color: #EC6C58;
+  text-decoration: none;
+}
+
+.path-frontpage .toolbar-tray-open header.about-main-header,
+.path-frontpage .toolbar-tray-open header.main-header
+{
+  top: 80px;
+}
+.path-frontpage .toolbar-fixed header.about-main-header,
+.path-frontpage .toolbar-fixed header.main-header
+{
+  top: 40px;
+}
+
+header.about-main-header {
+  top: 0px;
+  width: 100%;
+  position: fixed;
+  z-index: 10;
+}
+
+.path-frontpage header.main-header {
+  top: 0px;
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+}
+
+.path-frontpage #participate #wrapper {
+  height: 100%;
+  padding: 5em 0 0 0;
+}
+
+.path-frontpage #page-title,
+.path-frontpage #wrapper
+{
+  background: #FFFAF7;
+}
+
+.path-frontpage #about,
+.path-frontpage #get-informed,
+.path-frontpage #participate
+ {
+  padding-top: 80px;
+}
+
+.path-taxonomy #wrapper .row.layout
+{
+  border-bottom: 0px none;
+  border-right: 0px none;
+}
+.path-taxonomy #wrapper
+{
+  background: #FFFAF7;
+}
+
+.path-taxonomy #page-title
+.path-taxonomy #wrapper
+{
+  text-align: center;
+  background: white;
+}
+
+.medium {
+    font-size: 14px;
+}
+.large,
+.large .fa,
+.large .label
+ {
+    font-size: 24px;
+}
+
+header.main-header {
+  background-image: none;
+  background-color: #EC6C58 !important;
+  font-size: 36px;
+  color: #FFFAF7;
+  font-size: 18px;
+  font-family: Asap;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+header.main-header:after,
+header.main-header nav,
+header.about-main-header nav
+ {
+  background-color: #EC6C58 !important;
+}
+
+.footer-menu {
+  display: none;
+}
+
+.commonfare-homepage section .content_layout .node > h2 {
+  display: none;
+}
+
+.commonfare-homepage #about .node__content,
+.commonfare-homepage #participate .node__content
+{
+  padding: 3em 0 10px 0;
+  max-width: 620px;
+  margin: 0 auto;
+}
+
+.node-navigation .prev .text-red .label,
+.node-navigation .next .text-red .label,
+.node-navigation .prev .text-red,
+.node-navigation .next .text-red
+{
+  color: #EC6C58 !important;
+}
+
+.node-navigation .prev:hover .text-red .label,
+.node-navigation .next:hover .text-red .label,
+.node-navigation .prev:hover .text-red,
+.node-navigation .next:hover .text-red
+{
+  color: #E7472E !important;
+}
+
+.node-navigation .prev:hover .title,
+.node-navigation .next:hover .title
+{
+  color: black !important;
+}
+
+body .main-header,
+.commonfare-homepage #get-informed .main-header,
+.commonfare-homepage #participate .main-header
+{
+  padding: 0;
+}
+
+body .main-header .menu-base-theme li
+{
+  padding: 10px 0;
+}
+.brand.logo img
+{
+  padding: 10px 0 0 0;
+}
+.brand.logo
+{
+  text-align: center
+}
+
+.commonfare-homepage {
+  background-color: #FFFAF7;
+}
+
+.commonfare-homepage #get-informed #wrapper {
+  background-color: #FFFFFF;
+}
+
+.commonfare-homepage .button_how {
+  padding: 10px 0;
+}
+
+.commonfare-homepage .button_how button {
+  font-weight: bold;
+}
+
+.text-white {
+  color: white !important;
+}
+.text-red {
+  color: #EC6C58 !important;
+}
+.red {
+  background-color: #EC6C58 !important;
+}
+
+
+
+div.copyright, div.copyright .copyright-text a {
+  text-decoration: none;
+  font-size: 14px;
+  font-family: Asap;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #EC6C58;
+}
+
+.path-frontpage .copyright {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+
+
+#block-selettorelingua-2 {
+  display: none;
+}
+
+#participate #mc_embed_signup {
+  background-color: transparent;
+  width: 100%;
+  margin: 0 auto;
+}
+#participate #mc_embed_signup form {
+  padding: 0;
+  margin: 0;
+}
+#participate #mc_embed_signup .button {
+  color: #FFFFFF;
+  background: #EC6C58;
+  line-height: 36px;
+  height: 36px;
+}
+#participate #mc_embed_signup .button:hover {
+  background: #E7472E;
+}
+#participate #mc_embed_signup input.email,
+#participate #mc_embed_signup input.button {
+  min-width: 160px;
+  margin: 5px auto;
+}
+#participate #mc_embed_signup input.email {
+  width: 40%;
+  border-color: #EC6C58;
+  line-height: 36px;
+}
+
+.node--type-welfare-organization .field--name-field-short-description {
+  border-left: 2px solid #EC6C58;
+  padding-left: 0.5em;
+}
+
+.node--type-welfare-organization .field--name-field-short-description .field__label,
+.node--type-welfare-organization .field--name-field-content strong,
+.node--type-welfare-organization .field--name-field-content h3,
+.node--type-welfare-organization .field--name-field-content h4
+{
+  color: #EC6C58;
+  font-weight: bold;
+}
+
+.mobile-menu-item {
+  display: none;
+}
+
+.path-taxonomy .card-content .card-item .views-field-name .fa-caret-right {
+  display: none;
+}
+
+.page-node-type-welfare-organization .block-views-blocktaxonomy-term-item-block-2 .term-description {
+  display: none;
+  margin-left: 10px;
+}
+
+.page-node-type-welfare-organization .block-views-blocktaxonomy-term-item-block-2 {
+  padding-bottom: 1em;
+}
+
+.btn-group div.btn.btn-default,
+.btn-group div.btn.btn-default:hover,
+.btn-group.open div.btn.btn-default
+{
+  box-shadow: none;
+  color: black;
+  background-color: transparent;
+}
+
+.btn-group div.btn.btn-default .label,
+.btn-group div.btn.btn-default .curr
+{
+    color: black !important;
+}
+.btn-group.open div.btn.btn-default .curr
+{
+    color: #BBB;
+}
+
+
+.card-content .card-item .views-field-name i,
+.card-content .card-item .views-field-name a,
+.card-content .card-item .views-field-name a:hover
+{
+  text-decoration: none;
+  color: #472D33;
+}
+
+
+.path-frontpage .card-content .card-item .wrapper:hover .views-field-name a,
+.path-frontpage .card-content .card-item:hover .views-field-name a:hover
+{
+  color: #472D33;
+}
+
+.path-taxonomy .card-content .card-item .wrapper:hover .views-field-name a,
+.path-taxonomy .card-content .card-item:hover .views-field-name a:hover
+{
+  color: white;
+}
+
+
+#block-views-block-taxonomy-term-item-block-2 {
+  display: none;
+}
+#block-commonfare-breadcrumbs {
+  display: block;
+  margin-top: 4.5em;
+  font-weight: 600;
+}
+
+.country-selector-wrapper {
+  padding: 1.5em 0;
+}
+
+.country-selector-wrapper .break {
+  clear: both;
+  display: block;
+}
+
+.no-lang-content {
+  padding: 8px 0 0;
+  font-size: 16px;
+  font-weight: 600;
+  float: left;
+}
+
+.country-selector {
+  float: left;
+}
+
+
+/* Mobile smaller than 768px */
+@media (max-width: 768px) {
+
+  #block-views-block-taxonomy-term-item-block-2 {
+    display: block;
+  }
+  #block-commonfare-breadcrumbs {
+    display: none;
+  }
+
+  div.copyright {
+    margin-top: -5em;
+    position: relative;
+  }
+
+  html, body {
+    width: 100%;
+    height: : 100%;
+  }
+
+  #wrapper {
+    padding-bottom: 1em;
+  }
+
+  .path-frontpage #participate #wrapper {
+    padding: 0px;
+  }
+  .path-frontpage #participate #wrapper p {
+    margin: 0em;
+  }
+
+  .node-navigation .col-xs-12 {
+    width: 50%;
+  }
+  .prev .title,
+  .next .title
+  {
+    display: none;
+  }
+
+  .copyright {
+    display: none;
+  }
+
+  body h2 {
+    font-size: 1.8em;
+  }
+  body h3 {
+    font-size: 1.4em;
+  }
+  body h4 {
+    font-size: 1.2em;
+  }
+
+  .country-selector .dropdown-menu li a {
+    font-size: 110%;
+  }
+
+  body header.main-header,
+  body header.main-header nav {
+  }
+  .main-header #block-commonfare-branding  {
+    display: none;
+  }
+  .main-header .primary-menu-container.col-md-9  {
+    padding: 0;
+  }
+  .main-header .mobile-menu-container {
+    display: block;
+  }
+  .main-header .mobile-menu-container .mobile-menu {
+    padding: 10px 0px;
+  }
+  .main-header .mobile-menu-container .mobile-menu.large .fa {
+    font-size: 42px;
+  }
+  .main-header .region-primary-menu  {
+    display: block;
+    margin: 0;
+  }
+  .main-header .region-primary-menu,
+  .main-header .region-primary-menu .menu-base-theme
+  {
+    border: 0px none;
+    background: transparent;
+  }
+  .main-header .region-primary-menu .menu-base-theme li {
+    border: 0px none;
+    display: block;
+    float: left;
+  }
+  .main-header .region-primary-menu .menu-base-theme li:nth-child(1)
+  {
+    display: none;
+  }
+  .main-header .region-primary-menu .menu-base-theme li a {
+    font-family: Asap, Verdena, sans-serif;
+    border: 0px none;
+    padding: 10px;
+    background: transparent;
+    color: white;
+    text-align: center;
+    font-size: 95%;
+    font-weight: bold;
+  }
+  .main-header .region-primary-menu .menu-base-theme li.active,
+  .path-taxonomy .menu-base-theme li:nth-child(2),
+  .page-node-type-welfare-organization .menu-base-theme li:nth-child(2)
+  {
+      background-color: white;
+  }
+  .main-header .region-primary-menu .menu-base-theme li.active a,
+  .path-taxonomy .menu-base-theme li:nth-child(2) a,
+  .page-node-type-welfare-organization .menu-base-theme li:nth-child(2) a
+  {
+      color: #EC6C58;
+  }
+
+  .path-frontpage #about,
+  .path-frontpage #get-informed,
+  .path-frontpage #participate {
+      padding-top: 64px;
+  }
+
+  .path-frontpage #get-informed #wrapper .node__content,
+  .path-frontpage #participate #wrapper .node__content
+  {
+    font-size: 70%;
+  }
+
+  .path-frontpage #participate #wrapper .node__content
+  {
+    padding: 1em;
+  }
+  .path-frontpage #participate #wrapper .node__content p
+  {
+    padding: 0px 0px 5px 0px;
+  }
+
+
+  .path-taxonomy .card-content .card-item .wrapper:hover .views-field-name i,
+  .path-taxonomy .card-content .card-item .wrapper:hover .views-field-name a,
+  .path-taxonomy .card-content .card-item:hover .views-field-name a:hover
+  {
+    color: #472D33;
+  }
+
+  .path-taxonomy .card-content .card-item .button_how
+  {
+    padding-right: 20px;
+  }
+
+
+  .copyright .language-selector {
+    display: none;
+  }
+
+  .copyright .copyright-text {
+    width: 100%;
+    text-align: center;
+  }
+
+  /*.about-main-header .navbar-header button*/
+  .main-header .navbar-header {
+    display: none;
+  }
+
+  .col-md-4.language-selector-container {
+    background: #fffaf7;
+    width: 100%;
+    position: absolute !important;
+    padding: 0 15px 0 0;
+  }
+
+  .col-md-4.language-selector-container button.btn,
+  .col-md-4.language-selector-container button.btn .label,
+  .col-md-4.language-selector-container button.btn .curr
+   {
+    color: inherit !important;
+    background-color: transparent !important;
+  }
+
+  .commonfare-homepage .card-content .card-item .wrapper {
+    background-color: #EC6C58;
+    min-height: 60px;
+    max-height: 60px;
+    cursor: pointer;
+    padding: 0.25em 1em;
+    box-shadow: 2px 2px 4px #BBB;
+  }
+  .commonfare-homepage .card-content {
+    padding: 0 1em;
+  }
+  .commonfare-homepage .card-content .card-item {
+    padding: 0.4em;
+  }
+
+  .commonfare-homepage .card-content .card-item .wrapper h4 {
+    font-size: 90%;
+  }
+  .commonfare-homepage .card-content .card-item .wrapper h4,
+  .commonfare-homepage .card-content .card-item .wrapper h4 a,
+  .commonfare-homepage .card-content .card-item .wrapper h4 a:hover,
+  .commonfare-homepage .card-content .card-item .wrapper h4 a:link
+  .commonfare-homepage .card-content .card-item .wrapper h4 a:active
+  {
+    color: #FFF !important;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .commonfare-homepage .card-content .card-item .button_how,
+  .commonfare-homepage .card-content .card-item .views-field-description__value
+  {
+    display: none;
+  }
+
+  .block.block-views-blockwelfare-measure-sections-block-1 {
+    margin: 0;
+  }
+
+  .mobile-menu-item {
+    background: #FFF;
+    background: rgba(255, 255, 255, 0.98);
+    border: 1px solid #CCC;
+    width: 100%;
+    height: 120px;
+    position: absolute;
+    z-index: 999;
+    top: 0px;
+    left: 0px;
+  }
+  .mobile-menu-item button.btn,
+  .mobile-menu-item .label,
+  .mobile-menu-item .curr
+  {
+    background: transparent !important;
+    color: black !important;
+  }
+  .mobile-menu-item .fa {
+    font-size: 28px;
+  }
+  .mobile-menu-item .close-button {
+    padding: 0.25em;
+  }
+
+  .mobile-menu-item .logo-red {
+    margin-top: 0.5em;
+    text-align: center;
+  }
+  .mobile-menu-item .logo-red img {
+    max-width: 40%;
+  }
+
+  .path-taxonomy .page-title {
+    background-color: #EC6C58;
+  }
+
+  .path-taxonomy .term-description {
+    text-align: left;
+    margin-left: 10px;
+  }
+
+  .path-taxonomy .card-content {
+  }
+  .path-taxonomy .card-content header {
+    border-bottom: 1px solid #CCC;
+  }
+  .path-taxonomy .card-content .card-item {
+    border-bottom: 1px solid #CCC;
+  }
+  .path-taxonomy .card-content .card-item:before {
+  }
+  .path-taxonomy .card-content .card-item .views-field-description__value,
+  .path-taxonomy .card-content .card-item .button_how
+  {
+    display: none;
+  }
+  body.commonfare.path-taxonomy .card-content .card-item .button_how a.text-red.large .label
+  {
+    font-size: 60%;
+    color: #472D33;
+    text-align: left;
+    display: block;
+    line-height: 2em;
+    padding: 0 15px;
+  }
+  .path-taxonomy .card-content .card-item .button_how .fa {
+    display: none;
+  }
+  .path-taxonomy .card-content .card-item .views-field-name .fa-caret-right {
+    display: inline;
+  }
+
+  .about-main-header {
+    min-height: 90px;
+  }
+
+  .about-main-header .btn-group.open .dropdown-menu {
+    margin-left: -50px;
+  }
+
+  .about-main-header .brand.logo img {
+    max-width: 60%;
+  }
+
+}
+
+
+
+/* mobile smaller than 321px eg iphone5 */
+@media (max-width: 321px) {
+  body h1 {
+    font-size: 1.8em
+  }
+  .path-frontpage #about,
+  .path-frontpage #get-informed
+   {
+    padding-top: 0px;
+  }
+  .commonfare-homepage #about .node__content,
+  .commonfare-homepage #participate .node__content
+  {
+    padding: 0px 0 0px 0;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  .path-frontpage #about {
+      padding-top: 84px;
+  }
+  .path-frontpage #get-informed {
+      padding-top: 64px;
+  }
+  .commonfare-homepage .card-content .card-item .wrapper {
+    max-height: 40px;
+    min-height: 40px;
+    padding: 0.25em 0.25em;
+    font-size: 1em;
+  }
+  .commonfare-homepage .card-content .card-item .wrapper h4 {
+    margin: 0;
+  }
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+  .menu-base-theme li.active,
+  .commonfare-homepage #get-informed .menu-base-theme li:nth-child(2),
+  .commonfare-homepage #participate .menu-base-theme li:nth-child(3),
+  .path-taxonomy .menu-base-theme li:nth-child(2),
+  .page-node-type-welfare-organization .menu-base-theme li:nth-child(2)
+  {
+    background-color: #FFFFFF;
+  }
+  .menu-base-theme li.active a,
+  .commonfare-homepage #get-informed .menu-base-theme li:nth-child(2) a,
+  .commonfare-homepage #participate .menu-base-theme li:nth-child(3) a,
+  .path-taxonomy .menu-base-theme li:nth-child(2) a,
+  .page-node-type-welfare-organization .menu-base-theme li:nth-child(2) a
+  {
+    color: #EC6C58;
+  }
+
+  .mobile-menu-container {
+    display: none;
+  }
+
+  .card-content .card-item .wrapper {
+    margin: 5px;
+    padding: 5px 20px;
+    box-shadow: 2px 2px 4px #BBB;
+    border: 1px solid #CCC;
+    background-color: #FFF;
+    min-height: 240px;
+    max-height: 240px;
+    cursor: pointer;
+  }
+
+  .commonfare-homepage .card-content .card-item .wrapper:hover {
+    box-shadow: 2px 2px 12px #AAA;
+  }
+
+  .commonfare-homepage .cards-list h2 {
+    color: black;
+  }
+
+  .commonfare-homepage .cards-list {
+    height: 100%;
+    background-color: #FFFAF7;
+    margin: 0.5em 0 4em 0;
+  }
+
+  .commonfare-homepage .card-content .views-field-description__value
+  {
+    text-align: center;
+  }
+
+  .path-taxonomy .card-content .views-field-name
+  {
+    min-height: 48px;
+  }
+
+  .card-content .btn
+  {
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  .card-content .card-item .wrapper .views-field-name h4 {
+    font-size: 1.2em;
+    text-align: center;
+  }
+
+  .card-content .views-field-description__value
+  {
+      min-height: 100px;
+      max-height: 100px;
+      overflow-y: hidden;
+  }
+
+  .path-taxonomy .card-content .button_how {
+    padding-right: 20px;
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+  }
+  .path-taxonomy .card-content .button_how .btn {
+    width: 47px;
+    padding: 16px;
+  }
+  .path-taxonomy .card-content .button_how .label {
+    display: none;
+  }
+
+  .path-taxonomy .card-content .card-item .wrapper:hover {
+    background: #EC6C58;
+  }
+
+  .path-taxonomy .card-content .card-item .wrapper:hover .views-field-name h2,
+  .path-taxonomy .card-content .card-item .wrapper:hover .views-field-name h4,
+  .path-taxonomy .card-content .card-item .wrapper:hover .views-field-description__value,
+  .path-taxonomy .card-content .card-item .wrapper:hover .button_how a
+   {
+    color: white !important;
+  }
+
+  .small-height #wrapper {
+    padding-bottom: 1em;
+  }
+
+  .path-frontpage #get-informed.small-height #wrapper p {
+    margin: 0;
+  }
+  .path-frontpage #get-informed.small-height .card-content .views-field-description__value {
+    font-size: 90%;
+    line-height: 140%;
+    max-height: 70px;
+    min-height: 70px;
+  }
+  .path-frontpage #get-informed.small-height .card-content .card-item .wrapper {
+    min-height: 200px;
+    max-height: 200px;
+  }
+  .commonfare-homepage #participate.small-height .node__content
+  {
+    padding: 0em 0 10px 0;
+  }
+
+
+}
+
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+  /* welfare card full page content width */
+  .page-node-type-welfare-organization.commonfare #page-title .container,
+  .page-node-type-welfare-organization.commonfare #wrapper .container {
+    width: 800px;
+  }
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
+
+/** UI design review */
+
+
+body.commonfare .language-selector .btn,
+body.commonfare div.copyright
+{
+  font-size: 14px;
+}
+
+body.commonfare .country-selector .btn {
+  font-size: 16px;
+}
+
+body.commonfare h3 {
+  font-size: 1.6em;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+body.commonfare #get-informed .field--name-body,
+body.commonfare .card-content .views-field-description__value
+{
+  color: #6C575C;
+  font-weight: 600;
+}
+
+body.commonfare #block-commonfare-main-menu li a {
+  font-weight: 600;
+  font-size: 16px;
+
+}
+
+
+#block-commonfare-content .field--name-field-short-description {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+
+.node--type-welfare-organization .field--name-field-short-description .field__label, .node--type-welfare-organization .field--name-field-content strong,
+.node--type-welfare-organization .field--name-field-content h3,
+.node--type-welfare-organization .field--name-field-content h4 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.node--type-welfare-organization .field--name-field-short-description .field__label, .node--type-welfare-organization .field--name-field-content strong,
+.node--type-welfare-organization .field--name-field-content h3,
+.node--type-welfare-organization .field--name-field-content h4 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.node--type-welfare-organization .field--name-field-content p
+{
+  font-size: 18px;
+  font-weight: normal;
+}
+
+
+body.commonfare.page-node-type-welfare-organization #block-commonfare-page-title {
+  margin-bottom: 4.5em;
+  margin-top: 1em;
+}
+
+#block-commonfare-breadcrumbs ol {
+  padding: 0;
+}

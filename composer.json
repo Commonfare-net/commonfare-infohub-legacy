@@ -1,0 +1,92 @@
+{
+    "name": "pienews/commonfare",
+    "description": "Commonfare platform",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "",
+        "role": ""
+    }],
+    "repositories": [{
+            "type": "vcs",
+            "url": "https://github.com/backupmigrate/backup_migrate_core"
+        },
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        },
+        {
+            "name": "commonfare/commonfare_ui",
+            "type": "path",
+            "url": "./src/commonfare_ui",
+            "options": {
+                "symlink": true
+            }
+        }
+    ],
+    "require": {
+        "composer/installers": "^1.2",
+        "drupal-composer/drupal-scaffold": "^2.2",
+        "cweagans/composer-patches": "~1.0",
+        "drupal/core": "^8.2",
+        "drush/drush": "~8.0",
+        "drupal/console": "~1.0",
+        "drupal/devel": "1.x-dev",
+        "drupal/drupal8_zymphonies_theme": "^1.0",
+        "drupal/token": "^1.0@beta",
+        "drupal/pathauto": "^1.0@beta",
+        "drupal/piwik": "^1.1",
+        "drupal/easy_breadcrumb": "^1.5",
+        "drupal/flags": "1.x-dev",
+        "commonfare/commonfare_ui": "dev-master",
+        "drupal/admin_toolbar": "^1.18",
+        "drupal/menu_trail_by_path": "^1.1",
+        "drupal/backup_migrate": "4.x-dev",
+        "drupal/mailchimp": "^1.2",
+        "drupal/ip_language_negotiation": "^1.0"
+    },
+    "require-dev": {
+        "behat/mink": "~1.7",
+        "behat/mink-goutte-driver": "~1.2",
+        "jcalderonzumba/gastonjs": "~1.0.2",
+        "jcalderonzumba/mink-phantomjs-driver": "~0.3.1",
+        "mikey179/vfsStream": "~1.2",
+        "phpunit/phpunit": "~4.8",
+        "symfony/css-selector": "~2.8"
+    },
+    "conflict": {
+        "drupal/drupal": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "classmap": [
+            "scripts/composer/ScriptHandler.php"
+        ]
+    },
+    "scripts": {
+        "drupal-scaffold": "DrupalComposer\\DrupalScaffold\\Plugin::scaffold",
+        "pre-install-cmd": [
+            "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+        ],
+        "pre-update-cmd": [
+            "DrupalProject\\composer\\ScriptHandler::checkComposerVersion"
+        ],
+        "post-install-cmd": [
+            "DrupalProject\\composer\\ScriptHandler::createRequiredFiles"
+        ],
+        "post-update-cmd": [
+            "DrupalProject\\composer\\ScriptHandler::createRequiredFiles"
+        ]
+    },
+    "extra": {
+        "installer-paths": {
+            "web/core": ["type:drupal-core"],
+            "web/libraries/{$name}": ["type:drupal-library"],
+            "web/modules/contrib/{$name}": ["type:drupal-module"],
+            "web/profiles/contrib/{$name}": ["type:drupal-profile"],
+            "web/themes/contrib/{$name}": ["type:drupal-theme"],
+            "drush/contrib/{$name}": ["type:drupal-drush"]
+        }
+    }
+}

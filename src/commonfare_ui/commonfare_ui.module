@@ -1,0 +1,98 @@
+<?php
+
+define("commonfare_pages", [
+  "about" => 24,
+  "get_informed" => 25,
+  "participate" => 26,
+]);
+
+
+function commonfare_ui_render_page($nid) {
+  $entity_type = 'node';
+  $view_mode = 'full';
+  $node = \Drupal::entityTypeManager()->getStorage($entity_type)->load($nid);
+  $view_builder = \Drupal::entityTypeManager()->getViewBuilder($entity_type)->view($node, $view_mode);
+  $output = render($view_builder);
+  return $output;
+}
+
+function commonfare_ui_get_pages() {
+  $pages = \Drupal::config('commonfare_ui.settings')->get('pages');
+  if (!$pages) {
+    $config = \Drupal::service('config.factory')->getEditable('commonfare_ui.settings');
+    $config->set('pages', commonfare_pages);
+    $pages = commonfare_pages;
+  }
+  return $pages;
+}
+
+function commonfare_ui_preprocess_page(array &$variables) {
+
+     $raw = [
+      'next'              => "Next",
+      'prev'              => "Previous",
+      'summary'           => "Summary",
+      "learn_how"         => "Discover",
+      "cat"               => "Categories",
+      "lang"              => "Language",
+      "please_select"     => "Please select the country of your interest",
+      "sorry_no_lang"     => "Sorry, this content is not available in your language",
+      "i_am_in"           => "I am in",
+      "subscribe"         => "Keep me updated",
+      "copyright"         => "Commonfare.net is a PIE News Project",
+      "email"             => "name@domain.com",
+    ];
+
+
+    $i18n = [];
+    $txts = [];
+
+    foreach ($raw as $key => $text) {
+      $trans = t($text);
+      $i18n[ $text ] = $trans;
+      $txts[ $key ] = $trans;
+    }
+
+    $variables['page']['txts'] = $txts;
+    $variables['#attached']['drupalSettings']['commonfare_ui'] = [
+      'txts' => $txts,
+      'i18n' => $i18n,
+      'lang' => \Drupal::languageManager()->getCurrentLanguage()->getId(),
+    ];
+
+    $variables['page']['learn_how'] = $variables['page']['txts']['learn_how'];
+    $variables['page']['subscribe'] = $variables['page']['txts']['subscribe'];
+    $variables['page']['email'] = $variables['page']['txts']['email'];
+    $variables['page']['copyright'] = $variables['page']['txts']['copyright'];
+
+}
+
+function commonfare_ui_preprocess_page__front(array &$variables)
+{
+
+  $pages = commonfare_ui_get_pages();
+  foreach ($pages as $label => $nid) {
+    $variables['page'][$label] = commonfare_ui_render_page($nid);
+  }
+
+}
+
+function commonfare_ui_views_pre_view(\Drupal\views\ViewExecutable $view, $display_id, array &$args) {
+
+  // Modify contextual filters for my_special_view if user has 'my special permission'.
+  $account = \Drupal::currentUser();
+
+  if ($view->id() == 'measure_list_by_term' && $display_id == 'block_1') {
+    // $args[1] = '';
+    // dpm($view);
+    $node = \Drupal::routeMatch()->getParameter('node');
+    if ($node) {
+      // kint($args);
+      $args[0] = (int) $node->get('field_tags')->get(0)->getString();
+      $args[1] = $node->get('field_country')->get(0)->getString();
+      // kint($args);
+      // die();
+    }
+
+  }
+}

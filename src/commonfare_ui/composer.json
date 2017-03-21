@@ -1,0 +1,7 @@
+{
+    "name": "commonfare/commonfare_ui",
+    "description": "commonfare ui integrations",
+    "type": "drupal-module",
+    "license": "MIT",
+    "minimum-stability": "dev"
+}

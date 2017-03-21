@@ -1,0 +1,384 @@
+
+
+
+<!-- Header and Navbar -->
+<header class="main-header">
+  <nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+      <div class="row">
+      <div class="navbar-header col-md-3">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navigation">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        {% if page.header %}
+          {{ page.header }}
+        {% endif %}
+      </div>
+
+      <!-- Navigation -->
+      <div class="col-md-9 col-xs-9 primary-menu-container">
+        {% if page.primary_menu %}
+          {{ page.primary_menu }}
+        {% endif %}
+      </div>
+      <!--End Navigation -->
+
+      <!-- Mobile only sandwich -->
+      <div class="col-md-3 col-xs-3 mobile-menu-container text-right">
+        <div class="mobile-menu large text-white">
+          <i class="fa fa-bars" aria-hidden="true"></i>
+        </div>
+      </div>
+      <!--End Mobile only sandwich -->
+
+      </div>
+    </div>
+  </nav>
+
+  <!-- Banner -->
+  {% if is_front and page.welcome_banner_text %}
+    <div class="container welcome-banner-text">
+      <div class="row">
+        <div class="col-md-12">
+            {{ page.welcome_banner_text }}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+  <!-- End Banner -->
+
+  <!-- Mobile menu panel  -->
+  <div class="mobile-menu-item">
+    <div class="close-button text-right">
+      <i class="text-red fa fa-times" aria-hidden="true"></i>
+    </div>
+    <div class="language-selector text-center medium">
+      <div class="btn-group">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <span class="label">Language</span> <span class="curr"></span> <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+          <li><a href="#it" data-lang="it">IT - Italiano</a></li>
+          <li><a href="#hr" data-lang="hr">HR - Hrvatski</a></li>
+          <li><a href="#nl" data-lang="nl">NL - Nederlands</a></li>
+          <li><a href="#en" data-lang="en">EN - English</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="logo-red">
+      <a href="/#about"><img src="/themes/commonfare/logo_red.svg" alt="About"></a>
+    </div>
+  </div>
+  <!-- End Mobile menu panel  -->
+
+</header>
+<!--End Header & Navbar -->
+
+
+<!--Highlighted-->
+  {% if page.highlighted %}
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          {{ page.highlighted }}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+<!--End Highlighted-->
+
+
+<!-- Start Top Widget -->
+{% if is_front %}
+  {% if page.topwidget_first or page.topwidget_second or page.topwidget_third %}
+    <div class="topwidget">
+      <!-- start: Container -->
+      <div class="container">
+
+        <div class="row">
+          <!-- Top widget first region -->
+          <div class = {{ topwidget_class }}>
+            {% if page.topwidget_first %}
+              {{ page.topwidget_first }}
+            {% endif %}
+          </div>
+          <!-- End top widget third region -->
+          <!-- Top widget second region -->
+          <div class = {{ topwidget_class }}>
+            {% if page.topwidget_second %}
+              {{ page.topwidget_second }}
+            {% endif %}
+          </div>
+          <!-- End top widget third region -->
+          <!-- Top widget third region -->
+          <div class = {{ topwidget_third_class }}>
+            {% if page.topwidget_third %}
+              {{ page.topwidget_third }}
+            {% endif %}
+          </div>
+          <!-- End top widget third region -->
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endif %}
+<!--End Top Widget -->
+
+<!-- Page Title -->
+{%  if page.page_title and not is_front %}
+  <div id="page-title">
+    <div id="page-title-inner">
+      <!-- start: Container -->
+      <div class="container">
+        {{ page.page_title }}
+      </div>
+    </div>
+  </div>
+{% endif %}
+<!-- End Page Title ---- >
+
+
+<!-- layout -->
+<div id="wrapper">
+  <!-- start: Container -->
+  <div class="container">
+
+    <!--Content top-->
+      {% if page.content_top %}
+        <div class="row">
+          {{ page.content_top }}
+        </div>
+      {% endif %}
+    <!--End Content top-->
+
+    <!--start:content -->
+    <div class="row breadcrumb-wrapper">
+      <div class="col-md-12">{{ page.breadcrumb }}</div>
+    </div>
+
+    <div class="row layout">
+      <!--- Start Left SideBar -->
+      {% if page.sidebar_first %}
+        <div class="sidebar" >
+          <div class = {{sidebarfirst}} >
+            {{ page.sidebar_first }}
+          </div>
+        </div>
+      {% endif %}
+      <!---End Right SideBar -->
+
+      <!--- Start content -->
+      {% if page.content %}
+        <div class="content_layout">
+          <div class={{contentlayout}}>
+            {{ page.content }}
+          </div>
+        </div>
+      {% endif %}
+      <!---End content -->
+
+      <!--- Start Right SideBar -->
+      {% if page.sidebar_second %}
+        <div class="sidebar">
+          <div class={{sidebarsecond}}>
+            {{ page.sidebar_second }}
+          </div>
+        </div>
+      {% endif %}
+      <!---End Right SideBar -->
+
+    </div>
+    <!--End Content -->
+
+    <!--Start Content Bottom-->
+    {% if page.content_bottom %}
+      <div class="row">
+        {{ page.content_bottom }}
+      </div>
+    {% endif %}
+    <!--End Content Bottom-->
+  </div>
+</div>
+<!-- End layout -->
+
+
+
+
+
+
+<!-- Start bottom -->
+{% if is_front %}
+  {% if page.bottom_first or page.bottom_second or page.bottom_third %}
+    <div class="bottom-widgets">
+      <!-- Start Container -->
+      <div class="container">
+
+        <div class="row">
+
+          <!-- Start Bottom First Region -->
+          <div class = {{ bottom_class }}>
+            {% if page.bottom_first %}
+              {{ page.bottom_first }}
+            {% endif %}
+          </div>
+          <!-- End Bottom First Region -->
+
+          <!-- Start Bottom Second Region -->
+          <div class = {{ bottom_class }}>
+            {% if page.bottom_second %}
+              {{ page.bottom_second }}
+            {% endif %}
+          </div>
+          <!-- End Bottom Second Region -->
+
+          <!-- Start Bottom third Region -->
+          <div class = {{ bottom_class }}>
+            {% if page.bottom_third %}
+              {{ page.bottom_third }}
+            {% endif %}
+          </div>
+          <!-- End Bottom Third Region -->
+
+          <div class = {{ bottom_class }}>
+            {% if page.bottom_forth %}
+              {{ page.bottom_forth }}
+            {% endif %}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endif %}
+<!--End Bottom -->
+
+
+
+
+<!-- start: Footer -->
+{% if  is_front and (page.footer_first or page.footer_second or page.footer_third) %}
+  <div class="footerwidget">
+    <div class="container">
+
+      <div class="row">
+
+        <!-- Start Footer First Region -->
+        <div class = {{ footer_class }}>
+          {% if page.footer_first %}
+            {{ page.footer_first }}
+          {% endif %}
+        </div>
+        <!-- End Footer First Region -->
+
+        <!-- Start Footer Second Region -->
+        <div class = {{ footer_class }}>
+          {% if page.footer_second %}
+            {{ page.footer_second }}
+          {% endif %}
+        </div>
+        <!-- End Footer Second Region -->
+
+        <!-- Start Footer third Region -->
+        <div class = {{ footer_third_class }}>
+          {% if page.footer_third %}
+            {{ page.footer_third }}
+          {% endif %}
+        </div>
+        <!-- End Footer Third Region -->
+      </div>
+    </div>
+  </div>
+{% endif %}
+<!--End Footer -->
+
+<!-- Start Footer Menu -->
+{% if page.footer_menu %}
+  <div class="footer-menu">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6 col-md-6">
+          {{ page.footer_menu }}
+        </div>
+        {% if show_social_icon %}
+        <div class="col-sm-6 col-md-6">
+          <div class="social-media">
+            {% if facebook_url %}
+              <a href="{{ facebook_url }}"  class="facebook" target="_blank" ><i class="fa fa-facebook"></i></a>
+            {% endif %}
+            {% if google_plus_url %}
+              <a href="{{ google_plus_url }}"  class="google-plus" target="_blank" ><i class="fa fa-google-plus"></i></a>
+            {% endif %}
+            {% if twitter_url %}
+              <a href="{{ twitter_url }}" class="twitter" target="_blank" ><i class="fa fa-twitter"></i></a>
+            {% endif %}
+            {% if linkedin_url %}
+              <a href="{{ linkedin_url }}" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
+            {% endif %}
+            {% if pinterest_url %}
+              <a href="{{ pinterest_url }}" class="pinterest" target="_blank" ><i class="fa fa-pinterest"></i></a>
+            {% endif %}
+            {% if rss_url %}
+              <a href="{{ rss_url }}" class="rss" target="_blank" ><i class="fa fa-rss"></i></a>
+            {% endif %}
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endif %}
+<!-- End Footer Menu -->
+
+{% if copyright_text or show_credit_link %}
+<div class="copyright">
+  <div class="container">
+    <div class="row">
+
+      <!-- Copyright -->
+      <div class="col-sm-6 col-md-6 copyright-text">
+        <p><a href="http://pieproject.eu">{{ page.txts.copyright }}</a></p>
+      </div>
+      <!-- End Copyright -->
+
+      <!-- Credit link -->
+
+        <div class="col-sm-6 col-md-6">
+          <div class="language-selector text-right">
+            <div class="btn-group dropup">
+              <button type="button" class="btn btn-default dropdown-toggle red text-white" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <span class="label">Language</span> <span class="curr"></span> <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu">
+                <li><a href="#it" data-lang="it">IT - Italiano</a></li>
+                <li><a href="#hr" data-lang="hr">HR - Hrvatski</a></li>
+                <li><a href="#nl" data-lang="nl">NL - Nederlands</a></li>
+                <li><a href="#en" data-lang="en">EN - English</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      <!-- End Credit link -->
+
+    </div>
+  </div>
+</div>
+{% endif %}
+
+
+<!-- Google map -->
+{% if is_front and page.google_map %}
+  <div class="google_map">
+    {{ page.google_map }}
+  </div>
+{% endif %}
+<!-- End Google map -->
+
+<div class="hidden txts">
+  {% for key, label in page.txts %}
+      <span class="{{ key }}">{{ label }}</span>
+  {% endfor %}
+</div>

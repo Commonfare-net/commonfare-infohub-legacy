@@ -1,0 +1,1 @@
+git add . && git commit -m "fast fix $1 $2" && git push

@@ -1,0 +1,11 @@
+
+build_composer_project: false
+build_composer: false
+drupal_composer_path: false
+
+drupal_core_path: "/var/www/commonfare"
+
+vagrant_synced_folders:
+  - local_path: /home/l/git/gitlab.fbk.eu/pienews-platform/drupal
+    destination: /var/www/commonfare
+    type: nfs

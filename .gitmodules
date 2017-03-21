@@ -1,0 +1,3 @@
+[submodule "drupal-nginx"]
+	path = drupal-nginx
+	url = git@github.com:muka/drupal-nginx.git

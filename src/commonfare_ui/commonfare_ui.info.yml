@@ -1,0 +1,14 @@
+name: Commonfare UI
+description: Commonfare UI integrations
+package: Commonfare
+
+type: module
+core: 8.x
+
+# dependencies:
+#   - datetime:datetime
+#   - drupal:views
+# test_dependencies:
+#  - drupal:image
+# configure: hello_world.settings
+# hidden: true

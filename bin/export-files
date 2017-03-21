@@ -1,0 +1,7 @@
+#!/bin/sh
+
+NOW=`date +"%F_%H-%M-%S_%Z"`
+
+./bin/drupal config:export
+
+tar -czf backup/files_${NOW}.tgz web/sites/default
